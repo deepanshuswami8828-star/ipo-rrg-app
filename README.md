@@ -7,7 +7,7 @@ listing" signal). Built from the RRG app (same RRG method); this folder is the a
 ## Run
 ```
 pip install -r requirements.txt
-streamlit run rrg_app.py
+streamlit run streamlit_app.py        # rrg_app.py and ipo_page.py start the same app
 ```
 
 ## Which stocks
@@ -18,13 +18,18 @@ live in the project folder (`IPO RRG app\Stock data checks`, `Reports\`); `data/
 - **waiting**: fewer sessions, shown on the IPO details page only; the daily refresh moves it to ready at 60
 - **tags**: the listing year (IPO 2024 / IPO 2025 / IPO 2026)
 
-## Pages
-- **RRG charts**: Daily (the main view for IPO stocks), Weekly and Both (only once a stock has 60 weekly RRG bars,
-  about 21 months after listing; otherwise a notice), All stocks (per tag).
-- **IPO details**: GMP of current / upcoming mainboard IPOs (UNOFFICIAL, grey market, two sites side by side with
-  the time read), listing performance and subscription, the Daily RRG turn-to-Improving signal (information only),
-  and one IPO with every field's source and read date.
-- The Strategy page and the Tags analysis of the RRG app are left out until the strategy is changed.
+## Tabs
+- **Home**: every IPO in one table (search, tag, Daily RRG filter); click a row to open it in Stock.
+- **Stock**: one IPO: issue price -> listing day -> now, Daily RRG chart against NIFTY 50, price since listing with
+  the issue price and the days the Daily RRG turned Improving, and every IPO field with its source and read date.
+- **Compare**: every IPO of a tag on one Daily RRG chart, with a table.
+- **Upcoming IPOs**: GMP of mainboard IPOs not listed yet (UNOFFICIAL, grey market; two sites side by side with the
+  time read), and for listed ones the GMP estimate against the actual NSE listing open.
+- Daily RRG is the main view for IPO stocks; the Weekly quadrant is shown once a stock has enough history.
+- The strategy pages of the RRG app are left out until the strategy is changed.
+
+Code: `app_main.py` (tabs), `analytics.py` (per-stock summary, `data/summary.csv`, rebuilt by every refresh),
+`rrg_calc.py` (RRG formula of the RRG app, unchanged), `data_pipeline.py` (NSE data), `config.py`.
 
 ## Data (all in data/)
 | File | What | Source |
@@ -34,6 +39,7 @@ live in the project folder (`IPO RRG app\Stock data checks`, `Reports\`); `data/
 | `stocks.json` | stocks, tag, listing date, issue price, ready/waiting | project step 1 + 2 |
 | `ipo_info.csv` | IPO details, each field with source + read date | NSE (official) and Trendlyne (unofficial) |
 | `gmp_latest.csv` | GMP of current / upcoming IPOs | ipowatch.in, niftytrader.in (unofficial) |
+| `summary.csv` | per stock: listing performance, Daily RRG now, turns to Improving | `analytics.py` |
 | `manifest.json` | version, last refresh, per-stock coverage, held stocks, Yahoo fallback days | pipeline |
 
 ## Daily refresh (`tools/refresh_data.py`, GitHub Actions `refresh-data.yml`)
