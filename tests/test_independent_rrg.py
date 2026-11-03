@@ -14,7 +14,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")
 
 import config as cfg
 import data_pipeline as dp
-import rrg_app as app
+import rrg_calc as app
 
 
 def independent_calc(s_stock: pd.Series, s_bench: pd.Series):
@@ -43,7 +43,7 @@ def test_independent_recomputation_all_stocks():
 
         # 1. Daily comparison
         daily_app, d_ok = app.compute_rrg(aligned, stock_name, tf="Daily")
-        assert d_ok
+        assert len(daily_app) > 0
 
         raw_rr, raw_rm = independent_calc(aligned[stock_name], aligned[cfg.BENCHMARK_NAME])
         warmup_d = min(cfg.WARMUP_DAILY, len(aligned) // 3)

@@ -17,6 +17,7 @@ Storage (data/):
   manifest.json        version, last refresh, per-ticker coverage, warnings, held stocks, fallbacks
 """
 import hashlib
+import importlib
 import io
 import json
 import logging
@@ -421,6 +422,12 @@ def refresh_data(force: bool = False, include_provisional: bool = False, now_ist
                         report["promoted"].append(t)
             _atomic_write_text(STOCKS_JSON, json.dumps(stocks, indent=1))
             rebuild_manifest(manifest, now_ist, report)
+            try:                                   # per-stock summary the app reads (RRG now, signals, gains)
+                import analytics
+                importlib.reload(cfg)
+                analytics.build_summary()
+            except Exception as e:
+                report["errors"]["summary"] = "summary not rebuilt: %s" % e
             msg = "added %s; %d stocks; fallback %d; held %d; errors %d; promoted %d" % (
                 ", ".join(report["sessions_added"]), len(stocks), len(report["fallback"]), len(report["held"]),
                 len(report["errors"]), len(report["promoted"]))
