@@ -1,8 +1,8 @@
 # IPO RRG app
 
-Relative Rotation Graphs (RRG) of NSE mainboard IPO stocks listed from November 2024, against NIFTY 50, plus an
-IPO details page (listing performance, subscription, GMP of upcoming IPOs, and the "Daily RRG turned Improving after
-listing" signal). Built from the RRG app (same RRG method); this folder is the app's repository.
+Relative Rotation Graphs (RRG) of NSE mainboard IPO stocks listed from November 2024, against NIFTY 50, with each
+IPO's listing performance, subscription, the days its Daily RRG turned Improving after listing, and the GMP of
+upcoming IPOs. Built from the RRG app (same RRG method); this folder is the app's repository.
 
 ## Run
 ```
@@ -15,7 +15,7 @@ Every NSE mainboard IPO listed from 1 Nov 2024 (no SME, no InvIT/REIT) that pass
 (price break, repricing, missing data) on NSE's official daily files from its listing day. The list and the checks
 live in the project folder (`IPO RRG app\Stock data checks`, `Reports\`); `data/stocks.json` is built from them.
 - **ready**: at least 60 NSE sessions, shown on the RRG pages
-- **waiting**: fewer sessions, shown on the IPO details page only; the daily refresh moves it to ready at 60
+- **waiting**: fewer sessions, listed in Home and Stock without an RRG yet; the daily refresh moves it to ready at 60
 - **tags**: the listing year (IPO 2024 / IPO 2025 / IPO 2026)
 
 ## Tabs
