@@ -1,0 +1,55 @@
+# Daily data refresh of the IPO RRG app: adds the latest session for every IPO stock and NIFTY 50 from NSE's
+# official files (bhavcopy + index close file) after the NSE close, saves them in data/ and pushes, so the
+# Streamlit app shows the new session. NSE publishes its files in the evening, hence the evening schedule.
+name: Daily data refresh
+
+on:
+  schedule:
+    # GitHub can delay scheduled runs by hours, or skip them, most often at :00 / :30. So the refresh is
+    # scheduled several times each weekday evening at odd minutes: the first run that finds the day's prices
+    # saves them, every later run sees the data is already up to date and stops. All before midnight IST.
+    - cron: "22 12 * * 1-5"      # 17:52 IST, Monday-Friday (after the NSE close)
+    - cron: "52 12 * * 1-5"      # 18:22 IST
+    - cron: "22 13 * * 1-5"      # 18:52 IST
+    - cron: "52 13 * * 1-5"      # 19:22 IST
+    - cron: "22 14 * * 1-5"      # 19:52 IST
+    - cron: "22 15 * * 1-5"      # 20:52 IST
+    - cron: "22 16 * * 1-5"      # 21:52 IST
+    - cron: "22 17 * * 1-5"      # 22:52 IST
+  workflow_dispatch:              # "Run workflow" button on GitHub (or an exact-time trigger from cron-job.org)
+
+permissions:
+  contents: write                # to commit the refreshed data files
+
+concurrency:
+  group: data-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install packages
+        run: pip install -r requirements.txt
+      - name: Download and validate the latest data
+        # no --force: when the data already has the last completed session (an earlier run saved it, or a
+        # delayed run starts after midnight) nothing is downloaded, so a late run cannot fail on half-published data
+        run: python tools/refresh_data.py --force
+      - name: Save new data
+        run: |
+          if git diff --quiet -- data/prices data/NIFTY50.csv data/stocks.json; then
+            echo "No new session in the data (holiday or not yet published); nothing to save."
+            exit 0
+          fi
+          LAST=$(python -c "import json; print(json.load(open('data/manifest.json'))['tickers']['^NSEI']['last_date'])")
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Data refresh: prices up to $LAST"
+          git push

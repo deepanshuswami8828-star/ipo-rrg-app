@@ -1,0 +1,3878 @@
+{
+ "AFCONS.NS": {
+  "symbol": "AFCONS",
+  "name": "Afcons Infrastructure Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-11-04",
+  "listing_symbol": "AFCONS",
+  "issue_price": 463.0,
+  "status": "ready",
+  "sessions": 495,
+  "first_date": "2024-11-04",
+  "last_date": "2026-11-03"
+ },
+ "SAGILITY.NS": {
+  "symbol": "SAGILITY",
+  "name": "SAGILITY LIMITED",
+  "sector": "Healthcare",
+  "industry": "Health Information Services",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-11-12",
+  "listing_symbol": "SAGILITY",
+  "issue_price": 30.0,
+  "status": "ready",
+  "sessions": 489,
+  "first_date": "2024-11-12",
+  "last_date": "2026-11-03"
+ },
+ "ACMESOLAR.NS": {
+  "symbol": "ACMESOLAR",
+  "name": "Acme Solar Holdings Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-11-13",
+  "listing_symbol": "ACMESOLAR",
+  "issue_price": 289.0,
+  "status": "ready",
+  "sessions": 488,
+  "first_date": "2024-11-13",
+  "last_date": "2026-11-03"
+ },
+ "SWIGGY.NS": {
+  "symbol": "SWIGGY",
+  "name": "Swiggy Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-11-13",
+  "listing_symbol": "SWIGGY",
+  "issue_price": 390.0,
+  "status": "ready",
+  "sessions": 488,
+  "first_date": "2024-11-13",
+  "last_date": "2026-11-03"
+ },
+ "NIVABUPA.NS": {
+  "symbol": "NIVABUPA",
+  "name": "Niva Bupa Health Insurance Company Limited",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-11-14",
+  "listing_symbol": "NIVABUPA",
+  "issue_price": 74.0,
+  "status": "ready",
+  "sessions": 487,
+  "first_date": "2024-11-14",
+  "last_date": "2026-11-03"
+ },
+ "BLACKBUCK.NS": {
+  "symbol": "BLACKBUCK",
+  "name": "BLACKBUCK LIMITED",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-11-22",
+  "listing_symbol": "BLACKBUCK",
+  "issue_price": 273.0,
+  "status": "ready",
+  "sessions": 483,
+  "first_date": "2024-11-22",
+  "last_date": "2026-11-03"
+ },
+ "NTPCGREEN.NS": {
+  "symbol": "NTPCGREEN",
+  "name": "NTPC Green Energy Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-11-27",
+  "listing_symbol": "NTPCGREEN",
+  "issue_price": 108.0,
+  "status": "ready",
+  "sessions": 480,
+  "first_date": "2024-11-27",
+  "last_date": "2026-11-03"
+ },
+ "EIEL.NS": {
+  "symbol": "EIEL",
+  "name": "Enviro Infra Engineers Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-11-29",
+  "listing_symbol": "EIEL",
+  "issue_price": 148.0,
+  "status": "ready",
+  "sessions": 478,
+  "first_date": "2024-11-29",
+  "last_date": "2026-11-03"
+ },
+ "SURAKSHA.NS": {
+  "symbol": "SURAKSHA",
+  "name": "Suraksha Diagnostic Limited",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-12-06",
+  "listing_symbol": "SURAKSHA",
+  "issue_price": 441.0,
+  "status": "ready",
+  "sessions": 473,
+  "first_date": "2024-12-06",
+  "last_date": "2026-11-03"
+ },
+ "MOBIKWIK.NS": {
+  "symbol": "MOBIKWIK",
+  "name": "One Mobikwik Systems Limited",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-12-18",
+  "listing_symbol": "MOBIKWIK",
+  "issue_price": 279.0,
+  "status": "ready",
+  "sessions": 465,
+  "first_date": "2024-12-18",
+  "last_date": "2026-11-03"
+ },
+ "SAILIFE.NS": {
+  "symbol": "SAILIFE",
+  "name": "Sai Life Sciences Limited",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-12-18",
+  "listing_symbol": "SAILIFE",
+  "issue_price": 549.0,
+  "status": "ready",
+  "sessions": 465,
+  "first_date": "2024-12-18",
+  "last_date": "2026-11-03"
+ },
+ "VMM.NS": {
+  "symbol": "VMM",
+  "name": "Vishal Mega Mart Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Department Stores",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-12-18",
+  "listing_symbol": "VMM",
+  "issue_price": 78.0,
+  "status": "ready",
+  "sessions": 465,
+  "first_date": "2024-12-18",
+  "last_date": "2026-11-03"
+ },
+ "IKS.NS": {
+  "symbol": "IKS",
+  "name": "Inventurus Knowledge Solutions Limited",
+  "sector": "Healthcare",
+  "industry": "Health Information Services",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-12-19",
+  "listing_symbol": "IKS",
+  "issue_price": 1329.0,
+  "status": "ready",
+  "sessions": 464,
+  "first_date": "2024-12-19",
+  "last_date": "2026-11-03"
+ },
+ "IGIL.NS": {
+  "symbol": "IGIL",
+  "name": "International Gemological Institute Limited",
+  "sector": "Basic Materials",
+  "industry": "Other Precious Metals & Mining",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-12-20",
+  "listing_symbol": "IGIL",
+  "issue_price": 417.0,
+  "status": "ready",
+  "sessions": 463,
+  "first_date": "2024-12-20",
+  "last_date": "2026-11-03"
+ },
+ "DAMCAPITAL.NS": {
+  "symbol": "DAMCAPITAL",
+  "name": "Dam Capital Advisors Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-12-27",
+  "listing_symbol": "DAMCAPITAL",
+  "issue_price": 283.0,
+  "status": "ready",
+  "sessions": 459,
+  "first_date": "2024-12-27",
+  "last_date": "2026-11-03"
+ },
+ "SANATHAN.NS": {
+  "symbol": "SANATHAN",
+  "name": "Sanathan Textiles Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-12-27",
+  "listing_symbol": "SANATHAN",
+  "issue_price": 321.0,
+  "status": "ready",
+  "sessions": 459,
+  "first_date": "2024-12-27",
+  "last_date": "2026-11-03"
+ },
+ "TRANSRAILL.NS": {
+  "symbol": "TRANSRAILL",
+  "name": "Transrail Lighting Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-12-27",
+  "listing_symbol": "TRANSRAILL",
+  "issue_price": 432.0,
+  "status": "ready",
+  "sessions": 459,
+  "first_date": "2024-12-27",
+  "last_date": "2026-11-03"
+ },
+ "CEWATER.NS": {
+  "symbol": "CEWATER",
+  "name": "Concord Enviro Systems Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Water",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-12-27",
+  "listing_symbol": "CEWATER",
+  "issue_price": 701.0,
+  "status": "ready",
+  "sessions": 459,
+  "first_date": "2024-12-27",
+  "last_date": "2026-11-03"
+ },
+ "MAMATA.NS": {
+  "symbol": "MAMATA",
+  "name": "Mamata Machinery Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-12-27",
+  "listing_symbol": "MAMATA",
+  "issue_price": 243.0,
+  "status": "ready",
+  "sessions": 459,
+  "first_date": "2024-12-27",
+  "last_date": "2026-11-03"
+ },
+ "VENTIVE.NS": {
+  "symbol": "VENTIVE",
+  "name": "Ventive Hospitality Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-12-30",
+  "listing_symbol": "VENTIVE",
+  "issue_price": 643.0,
+  "status": "ready",
+  "sessions": 458,
+  "first_date": "2024-12-30",
+  "last_date": "2026-11-03"
+ },
+ "CARRARO.NS": {
+  "symbol": "CARRARO",
+  "name": "Carraro India Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-12-30",
+  "listing_symbol": "CARRARO",
+  "issue_price": 704.0,
+  "status": "ready",
+  "sessions": 458,
+  "first_date": "2024-12-30",
+  "last_date": "2026-11-03"
+ },
+ "SENORES.NS": {
+  "symbol": "SENORES",
+  "name": "Senores Pharmaceuticals Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-12-30",
+  "listing_symbol": "SENORES",
+  "issue_price": 391.0,
+  "status": "ready",
+  "sessions": 458,
+  "first_date": "2024-12-30",
+  "last_date": "2026-11-03"
+ },
+ "UNIMECH.NS": {
+  "symbol": "UNIMECH",
+  "name": "Unimech Aerospace and Manufacturing Limited",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2024"
+  ],
+  "listing_date": "2024-12-31",
+  "listing_symbol": "UNIMECH",
+  "issue_price": 785.0,
+  "status": "ready",
+  "sessions": 457,
+  "first_date": "2024-12-31",
+  "last_date": "2026-11-03"
+ },
+ "INDOFARM.NS": {
+  "symbol": "INDOFARM",
+  "name": "Indo Farm Equipment Limited",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-01-07",
+  "listing_symbol": "INDOFARM",
+  "issue_price": 215.0,
+  "status": "ready",
+  "sessions": 452,
+  "first_date": "2025-01-07",
+  "last_date": "2026-11-03"
+ },
+ "SETL.NS": {
+  "symbol": "SETL",
+  "name": "Standard Engineering Technology Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-01-13",
+  "listing_symbol": "SGLTL",
+  "issue_price": 140.0,
+  "status": "ready",
+  "sessions": 448,
+  "first_date": "2025-01-13",
+  "last_date": "2026-11-03"
+ },
+ "QUADFUTURE.NS": {
+  "symbol": "QUADFUTURE",
+  "name": "Quadrant Future Tek Limited",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-01-14",
+  "listing_symbol": "QUADFUTURE",
+  "issue_price": 290.0,
+  "status": "ready",
+  "sessions": 447,
+  "first_date": "2025-01-14",
+  "last_date": "2026-11-03"
+ },
+ "LAXMIDENTL.NS": {
+  "symbol": "LAXMIDENTL",
+  "name": "Laxmi Dental Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-01-20",
+  "listing_symbol": "LAXMIDENTL",
+  "issue_price": 428.0,
+  "status": "ready",
+  "sessions": 443,
+  "first_date": "2025-01-20",
+  "last_date": "2026-11-03"
+ },
+ "STALLION.NS": {
+  "symbol": "STALLION",
+  "name": "Stallion India Fluorochemicals Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-01-23",
+  "listing_symbol": "STALLION",
+  "issue_price": 90.0,
+  "status": "ready",
+  "sessions": 440,
+  "first_date": "2025-01-23",
+  "last_date": "2026-11-03"
+ },
+ "DENTA.NS": {
+  "symbol": "DENTA",
+  "name": "Denta Water and Infra Solutions Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-01-29",
+  "listing_symbol": "DENTA",
+  "issue_price": 294.0,
+  "status": "ready",
+  "sessions": 436,
+  "first_date": "2025-01-29",
+  "last_date": "2026-11-03"
+ },
+ "AGARWALEYE.NS": {
+  "symbol": "AGARWALEYE",
+  "name": "Dr. Agarwal's Health Care Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-02-04",
+  "listing_symbol": "AGARWALEYE",
+  "issue_price": 402.0,
+  "status": "ready",
+  "sessions": 431,
+  "first_date": "2025-02-04",
+  "last_date": "2026-11-03"
+ },
+ "AJAXENGG.NS": {
+  "symbol": "AJAXENGG",
+  "name": "Ajax Engineering Limited",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-02-17",
+  "listing_symbol": "AJAXENGG",
+  "issue_price": 629.0,
+  "status": "ready",
+  "sessions": 422,
+  "first_date": "2025-02-17",
+  "last_date": "2026-11-03"
+ },
+ "HEXT.NS": {
+  "symbol": "HEXT",
+  "name": "Hexaware Technologies Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-02-19",
+  "listing_symbol": "HEXT",
+  "issue_price": 708.0,
+  "status": "ready",
+  "sessions": 420,
+  "first_date": "2025-02-19",
+  "last_date": "2026-11-03"
+ },
+ "QPOWER.NS": {
+  "symbol": "QPOWER",
+  "name": "Quality Power Electrical Equipments Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-02-24",
+  "listing_symbol": "QPOWER",
+  "issue_price": 425.0,
+  "status": "ready",
+  "sessions": 417,
+  "first_date": "2025-02-24",
+  "last_date": "2026-11-03"
+ },
+ "ATHERENERG.NS": {
+  "symbol": "ATHERENERG",
+  "name": "Ather Energy Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-05-06",
+  "listing_symbol": "ATHERENERG",
+  "issue_price": 321.0,
+  "status": "ready",
+  "sessions": 373,
+  "first_date": "2025-05-06",
+  "last_date": "2026-11-03"
+ },
+ "BORANA.NS": {
+  "symbol": "BORANA",
+  "name": "Borana Weaves Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-05-27",
+  "listing_symbol": "BORANA",
+  "issue_price": 216.0,
+  "status": "ready",
+  "sessions": 358,
+  "first_date": "2025-05-27",
+  "last_date": "2026-11-03"
+ },
+ "BELRISE.NS": {
+  "symbol": "BELRISE",
+  "name": "Belrise Industries Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-05-28",
+  "listing_symbol": "BELRISE",
+  "issue_price": 90.0,
+  "status": "ready",
+  "sessions": 357,
+  "first_date": "2025-05-28",
+  "last_date": "2026-11-03"
+ },
+ "THELEELA.NS": {
+  "symbol": "THELEELA",
+  "name": "Leela Palaces Hotels & Resorts Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-06-02",
+  "listing_symbol": "THELEELA",
+  "issue_price": 435.0,
+  "status": "ready",
+  "sessions": 354,
+  "first_date": "2025-06-02",
+  "last_date": "2026-11-03"
+ },
+ "AEGISVOPAK.NS": {
+  "symbol": "AEGISVOPAK",
+  "name": "Aegis Vopak Terminals Limited",
+  "sector": "Energy",
+  "industry": "Oil & Gas Equipment & Services",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-06-02",
+  "listing_symbol": "AEGISVOPAK",
+  "issue_price": 235.0,
+  "status": "ready",
+  "sessions": 354,
+  "first_date": "2025-06-02",
+  "last_date": "2026-11-03"
+ },
+ "PROSTARM.NS": {
+  "symbol": "PROSTARM",
+  "name": "Prostarm Info Systems Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-06-03",
+  "listing_symbol": "PROSTARM",
+  "issue_price": 105.0,
+  "status": "ready",
+  "sessions": 353,
+  "first_date": "2025-06-03",
+  "last_date": "2026-11-03"
+ },
+ "SCODATUBES.NS": {
+  "symbol": "SCODATUBES",
+  "name": "Scoda Tubes Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-06-04",
+  "listing_symbol": "SCODATUBES",
+  "issue_price": 140.0,
+  "status": "ready",
+  "sessions": 352,
+  "first_date": "2025-06-04",
+  "last_date": "2026-11-03"
+ },
+ "OSWALPUMPS.NS": {
+  "symbol": "OSWALPUMPS",
+  "name": "Oswal Pumps Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-06-20",
+  "listing_symbol": "OSWALPUMPS",
+  "issue_price": 614.0,
+  "status": "ready",
+  "sessions": 340,
+  "first_date": "2025-06-20",
+  "last_date": "2026-11-03"
+ },
+ "ARIS.NS": {
+  "symbol": "ARIS",
+  "name": "Arisinfra Solutions Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-06-25",
+  "listing_symbol": "ARISINFRA",
+  "issue_price": 222.0,
+  "status": "ready",
+  "sessions": 337,
+  "first_date": "2025-06-25",
+  "last_date": "2026-11-03"
+ },
+ "ELLEN.NS": {
+  "symbol": "ELLEN",
+  "name": "Ellenbarrie Industrial Gases Limited",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-07-01",
+  "listing_symbol": "ELLEN",
+  "issue_price": 400.0,
+  "status": "ready",
+  "sessions": 333,
+  "first_date": "2025-07-01",
+  "last_date": "2026-11-03"
+ },
+ "KALPATARU.NS": {
+  "symbol": "KALPATARU",
+  "name": "Kalpataru Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-07-01",
+  "listing_symbol": "KALPATARU",
+  "issue_price": 414.0,
+  "status": "ready",
+  "sessions": 333,
+  "first_date": "2025-07-01",
+  "last_date": "2026-11-03"
+ },
+ "SAMBHV.NS": {
+  "symbol": "SAMBHV",
+  "name": "Sambhv Steel Tubes Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-07-02",
+  "listing_symbol": "SAMBHV",
+  "issue_price": 82.0,
+  "status": "ready",
+  "sessions": 332,
+  "first_date": "2025-07-02",
+  "last_date": "2026-11-03"
+ },
+ "HDBFS.NS": {
+  "symbol": "HDBFS",
+  "name": "HDB Financial Services Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-07-02",
+  "listing_symbol": "HDBFS",
+  "issue_price": 740.0,
+  "status": "ready",
+  "sessions": 332,
+  "first_date": "2025-07-02",
+  "last_date": "2026-11-03"
+ },
+ "IGCL.NS": {
+  "symbol": "IGCL",
+  "name": "Indogulf Cropsciences Limited",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-07-03",
+  "listing_symbol": "IGCL",
+  "issue_price": 111.0,
+  "status": "ready",
+  "sessions": 331,
+  "first_date": "2025-07-03",
+  "last_date": "2026-11-03"
+ },
+ "CRIZAC.NS": {
+  "symbol": "CRIZAC",
+  "name": "Crizac Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Education & Training Services",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-07-09",
+  "listing_symbol": "CRIZAC",
+  "issue_price": 245.0,
+  "status": "ready",
+  "sessions": 327,
+  "first_date": "2025-07-09",
+  "last_date": "2026-11-03"
+ },
+ "TRAVELFOOD.NS": {
+  "symbol": "TRAVELFOOD",
+  "name": "Travel Food Services Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-07-14",
+  "listing_symbol": "TRAVELFOOD",
+  "issue_price": 1100.0,
+  "status": "ready",
+  "sessions": 324,
+  "first_date": "2025-07-14",
+  "last_date": "2026-11-03"
+ },
+ "SMARTWORKS.NS": {
+  "symbol": "SMARTWORKS",
+  "name": "Smartworks Coworking Spaces Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-07-17",
+  "listing_symbol": "SMARTWORKS",
+  "issue_price": 407.0,
+  "status": "ready",
+  "sessions": 321,
+  "first_date": "2025-07-17",
+  "last_date": "2026-11-03"
+ },
+ "ANTHEM.NS": {
+  "symbol": "ANTHEM",
+  "name": "Anthem Biosciences Limited",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-07-21",
+  "listing_symbol": "ANTHEM",
+  "issue_price": 570.0,
+  "status": "ready",
+  "sessions": 319,
+  "first_date": "2025-07-21",
+  "last_date": "2026-11-03"
+ },
+ "INDIQUBE.NS": {
+  "symbol": "INDIQUBE",
+  "name": "Indiqube Spaces Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-07-30",
+  "listing_symbol": "INDIQUBE",
+  "issue_price": 237.0,
+  "status": "ready",
+  "sessions": 312,
+  "first_date": "2025-07-30",
+  "last_date": "2026-11-03"
+ },
+ "EBGNG.NS": {
+  "symbol": "EBGNG",
+  "name": "GNG Electronics Limited",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-07-30",
+  "listing_symbol": "EBGNG",
+  "issue_price": 237.0,
+  "status": "ready",
+  "sessions": 312,
+  "first_date": "2025-07-30",
+  "last_date": "2026-11-03"
+ },
+ "BRIGHOTEL.NS": {
+  "symbol": "BRIGHOTEL",
+  "name": "Brigade Hotel Ventures Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-07-31",
+  "listing_symbol": "BRIGHOTEL",
+  "issue_price": 90.0,
+  "status": "ready",
+  "sessions": 311,
+  "first_date": "2025-07-31",
+  "last_date": "2026-11-03"
+ },
+ "SHANTIGOLD.NS": {
+  "symbol": "SHANTIGOLD",
+  "name": "Shanti Gold International Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-08-01",
+  "listing_symbol": "SHANTIGOLD",
+  "issue_price": 199.0,
+  "status": "ready",
+  "sessions": 310,
+  "first_date": "2025-08-01",
+  "last_date": "2026-11-03"
+ },
+ "LAXMIINDIA.NS": {
+  "symbol": "LAXMIINDIA",
+  "name": "Laxmi India Finance Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-08-05",
+  "listing_symbol": "LAXMIINDIA",
+  "issue_price": 158.0,
+  "status": "ready",
+  "sessions": 308,
+  "first_date": "2025-08-05",
+  "last_date": "2026-11-03"
+ },
+ "CPPLUS.NS": {
+  "symbol": "CPPLUS",
+  "name": "Aditya Infotech Limited",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-08-05",
+  "listing_symbol": "CPPLUS",
+  "issue_price": 675.0,
+  "status": "ready",
+  "sessions": 308,
+  "first_date": "2025-08-05",
+  "last_date": "2026-11-03"
+ },
+ "MBEL.NS": {
+  "symbol": "MBEL",
+  "name": "M & B Engineering Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-08-06",
+  "listing_symbol": "MBEL",
+  "issue_price": 385.0,
+  "status": "ready",
+  "sessions": 307,
+  "first_date": "2025-08-06",
+  "last_date": "2026-11-03"
+ },
+ "LOTUSDEV.NS": {
+  "symbol": "LOTUSDEV",
+  "name": "Sri Lotus Developers and Realty Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-08-06",
+  "listing_symbol": "LOTUSDEV",
+  "issue_price": 150.0,
+  "status": "ready",
+  "sessions": 307,
+  "first_date": "2025-08-06",
+  "last_date": "2026-11-03"
+ },
+ "HILINFRA.NS": {
+  "symbol": "HILINFRA",
+  "name": "Highway Infrastructure Limited",
+  "sector": "Industrials",
+  "industry": "Infrastructure Operations",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-08-12",
+  "listing_symbol": "HILINFRA",
+  "issue_price": 70.0,
+  "status": "ready",
+  "sessions": 303,
+  "first_date": "2025-08-12",
+  "last_date": "2026-11-03"
+ },
+ "ALLTIME.NS": {
+  "symbol": "ALLTIME",
+  "name": "All Time Plastics Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-08-14",
+  "listing_symbol": "ALLTIME",
+  "issue_price": 275.0,
+  "status": "ready",
+  "sessions": 301,
+  "first_date": "2025-08-14",
+  "last_date": "2026-11-03"
+ },
+ "JSWCEMENT.NS": {
+  "symbol": "JSWCEMENT",
+  "name": "JSW Cement Limited",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-08-14",
+  "listing_symbol": "JSWCEMENT",
+  "issue_price": 147.0,
+  "status": "ready",
+  "sessions": 301,
+  "first_date": "2025-08-14",
+  "last_date": "2026-11-03"
+ },
+ "BLUESTONE.NS": {
+  "symbol": "BLUESTONE",
+  "name": "BlueStone Jewellery and Lifestyle Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-08-19",
+  "listing_symbol": "BLUESTONE",
+  "issue_price": 517.0,
+  "status": "ready",
+  "sessions": 299,
+  "first_date": "2025-08-19",
+  "last_date": "2026-11-03"
+ },
+ "REGAAL.NS": {
+  "symbol": "REGAAL",
+  "name": "Regaal Resources Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-08-20",
+  "listing_symbol": "REGAAL",
+  "issue_price": 102.0,
+  "status": "ready",
+  "sessions": 298,
+  "first_date": "2025-08-20",
+  "last_date": "2026-11-03"
+ },
+ "SHREEJISPG.NS": {
+  "symbol": "SHREEJISPG",
+  "name": "Shreeji Shipping Global Limited",
+  "sector": "Industrials",
+  "industry": "Marine Shipping",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-08-26",
+  "listing_symbol": "SHREEJISPG",
+  "issue_price": 252.0,
+  "status": "ready",
+  "sessions": 294,
+  "first_date": "2025-08-26",
+  "last_date": "2026-11-03"
+ },
+ "GEMAROMA.NS": {
+  "symbol": "GEMAROMA",
+  "name": "Gem Aromatics Limited",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-08-26",
+  "listing_symbol": "GEMAROMA",
+  "issue_price": 325.0,
+  "status": "ready",
+  "sessions": 294,
+  "first_date": "2025-08-26",
+  "last_date": "2026-11-03"
+ },
+ "PATELRMART.NS": {
+  "symbol": "PATELRMART",
+  "name": "Patel Retail Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Department Stores",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-08-26",
+  "listing_symbol": "PATELRMART",
+  "issue_price": 255.0,
+  "status": "ready",
+  "sessions": 294,
+  "first_date": "2025-08-26",
+  "last_date": "2026-11-03"
+ },
+ "VIKRAMSOLR.NS": {
+  "symbol": "VIKRAMSOLR",
+  "name": "Vikram Solar Limited",
+  "sector": "Technology",
+  "industry": "Solar",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-08-26",
+  "listing_symbol": "VIKRAMSOLR",
+  "issue_price": 332.0,
+  "status": "ready",
+  "sessions": 294,
+  "first_date": "2025-08-26",
+  "last_date": "2026-11-03"
+ },
+ "MEIL.NS": {
+  "symbol": "MEIL",
+  "name": "Mangal Electrical Industries Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-08-28",
+  "listing_symbol": "MEIL",
+  "issue_price": 561.0,
+  "status": "ready",
+  "sessions": 293,
+  "first_date": "2025-08-28",
+  "last_date": "2026-11-03"
+ },
+ "VIKRAN.NS": {
+  "symbol": "VIKRAN",
+  "name": "Vikran Engineering Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-09-03",
+  "listing_symbol": "VIKRAN",
+  "issue_price": 97.0,
+  "status": "ready",
+  "sessions": 289,
+  "first_date": "2025-09-03",
+  "last_date": "2026-11-03"
+ },
+ "AMANTA.NS": {
+  "symbol": "AMANTA",
+  "name": "Amanta Healthcare Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-09-09",
+  "listing_symbol": "AMANTA",
+  "issue_price": 126.0,
+  "status": "ready",
+  "sessions": 285,
+  "first_date": "2025-09-09",
+  "last_date": "2026-11-03"
+ },
+ "SHRINGARMS.NS": {
+  "symbol": "SHRINGARMS",
+  "name": "Shringar House of Mangalsutra Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-09-17",
+  "listing_symbol": "SHRINGARMS",
+  "issue_price": 165.0,
+  "status": "ready",
+  "sessions": 279,
+  "first_date": "2025-09-17",
+  "last_date": "2026-11-03"
+ },
+ "DEVX.NS": {
+  "symbol": "DEVX",
+  "name": "Dev Accelerator Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-09-17",
+  "listing_symbol": "DEVX",
+  "issue_price": 61.0,
+  "status": "ready",
+  "sessions": 279,
+  "first_date": "2025-09-17",
+  "last_date": "2026-11-03"
+ },
+ "URBANCO.NS": {
+  "symbol": "URBANCO",
+  "name": "Urban Company Limited",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-09-17",
+  "listing_symbol": "URBANCO",
+  "issue_price": 103.0,
+  "status": "ready",
+  "sessions": 279,
+  "first_date": "2025-09-17",
+  "last_date": "2026-11-03"
+ },
+ "EUROPRATIK.NS": {
+  "symbol": "EUROPRATIK",
+  "name": "Euro Pratik Sales Limited",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-09-23",
+  "listing_symbol": "EUROPRATIK",
+  "issue_price": 247.0,
+  "status": "ready",
+  "sessions": 275,
+  "first_date": "2025-09-23",
+  "last_date": "2026-11-03"
+ },
+ "VMSTMT.NS": {
+  "symbol": "VMSTMT",
+  "name": "VMS TMT Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-09-24",
+  "listing_symbol": "VMSTMT",
+  "issue_price": 99.0,
+  "status": "ready",
+  "sessions": 274,
+  "first_date": "2025-09-24",
+  "last_date": "2026-11-03"
+ },
+ "IVALUE.NS": {
+  "symbol": "IVALUE",
+  "name": "Ivalue Infosolutions Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-09-25",
+  "listing_symbol": "IVALUE",
+  "issue_price": 299.0,
+  "status": "ready",
+  "sessions": 273,
+  "first_date": "2025-09-25",
+  "last_date": "2026-11-03"
+ },
+ "SAATVIKGL.NS": {
+  "symbol": "SAATVIKGL",
+  "name": "Saatvik Green Energy Limited",
+  "sector": "Technology",
+  "industry": "Solar",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-09-26",
+  "listing_symbol": "SAATVIKGL",
+  "issue_price": 465.0,
+  "status": "ready",
+  "sessions": 272,
+  "first_date": "2025-09-26",
+  "last_date": "2026-11-03"
+ },
+ "GKENERGY.NS": {
+  "symbol": "GKENERGY",
+  "name": "GK Energy Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-09-26",
+  "listing_symbol": "GKENERGY",
+  "issue_price": 153.0,
+  "status": "ready",
+  "sessions": 272,
+  "first_date": "2025-09-26",
+  "last_date": "2026-11-03"
+ },
+ "ATLANTAELE.NS": {
+  "symbol": "ATLANTAELE",
+  "name": "Atlanta Electricals Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-09-29",
+  "listing_symbol": "ATLANTAELE",
+  "issue_price": 754.0,
+  "status": "ready",
+  "sessions": 271,
+  "first_date": "2025-09-29",
+  "last_date": "2026-11-03"
+ },
+ "GANESHCP.NS": {
+  "symbol": "GANESHCP",
+  "name": "Ganesh Consumer Products Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-09-29",
+  "listing_symbol": "GANESHCP",
+  "issue_price": 322.0,
+  "status": "ready",
+  "sessions": 271,
+  "first_date": "2025-09-29",
+  "last_date": "2026-11-03"
+ },
+ "STYL.NS": {
+  "symbol": "STYL",
+  "name": "Seshaasai Technologies Limited",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-09-30",
+  "listing_symbol": "STYL",
+  "issue_price": 423.0,
+  "status": "ready",
+  "sessions": 270,
+  "first_date": "2025-09-30",
+  "last_date": "2026-11-03"
+ },
+ "ARSSBL.NS": {
+  "symbol": "ARSSBL",
+  "name": "Anand Rathi Share and Stock Brokers Limited",
+  "sector": "Financial Services",
+  "industry": "Financial Conglomerates",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-09-30",
+  "listing_symbol": "ARSSBL",
+  "issue_price": 414.0,
+  "status": "ready",
+  "sessions": 270,
+  "first_date": "2025-09-30",
+  "last_date": "2026-11-03"
+ },
+ "JARO.NS": {
+  "symbol": "JARO",
+  "name": "Jaro Institute of Technology Management and Research Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Education & Training Services",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-09-30",
+  "listing_symbol": "JARO",
+  "issue_price": 890.0,
+  "status": "ready",
+  "sessions": 270,
+  "first_date": "2025-09-30",
+  "last_date": "2026-11-03"
+ },
+ "SOLARWORLD.NS": {
+  "symbol": "SOLARWORLD",
+  "name": "Solarworld Energy Solutions Limited",
+  "sector": "Technology",
+  "industry": "Solar",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-09-30",
+  "listing_symbol": "SOLARWORLD",
+  "issue_price": 351.0,
+  "status": "ready",
+  "sessions": 270,
+  "first_date": "2025-09-30",
+  "last_date": "2026-11-03"
+ },
+ "JAINREC.NS": {
+  "symbol": "JAINREC",
+  "name": "Jain Resource Recycling Limited",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-01",
+  "listing_symbol": "JAINREC",
+  "issue_price": 232.0,
+  "status": "ready",
+  "sessions": 269,
+  "first_date": "2025-10-01",
+  "last_date": "2026-11-03"
+ },
+ "EPACKPEB.NS": {
+  "symbol": "EPACKPEB",
+  "name": "EPack Prefab Technologies Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-01",
+  "listing_symbol": "EPACKPEB",
+  "issue_price": 204.0,
+  "status": "ready",
+  "sessions": 269,
+  "first_date": "2025-10-01",
+  "last_date": "2026-11-03"
+ },
+ "BMWVENTLTD.NS": {
+  "symbol": "BMWVENTLTD",
+  "name": "BMW Ventures Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-01",
+  "listing_symbol": "BMWVENTLTD",
+  "issue_price": 99.0,
+  "status": "ready",
+  "sessions": 269,
+  "first_date": "2025-10-01",
+  "last_date": "2026-11-03"
+ },
+ "JKIPL.NS": {
+  "symbol": "JKIPL",
+  "name": "Jinkushal Industries Limited",
+  "sector": "Industrials",
+  "industry": "Industrial Distribution",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-03",
+  "listing_symbol": "JKIPL",
+  "issue_price": 121.0,
+  "status": "ready",
+  "sessions": 268,
+  "first_date": "2025-10-03",
+  "last_date": "2026-11-03"
+ },
+ "TRUALT.NS": {
+  "symbol": "TRUALT",
+  "name": "TruAlt Bioenergy Limited",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-03",
+  "listing_symbol": "TRUALT",
+  "issue_price": 496.0,
+  "status": "ready",
+  "sessions": 268,
+  "first_date": "2025-10-03",
+  "last_date": "2026-11-03"
+ },
+ "PACEDIGITK.NS": {
+  "symbol": "PACEDIGITK",
+  "name": "Pace Digitek Limited",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-06",
+  "listing_symbol": "PACEDIGITK",
+  "issue_price": 219.0,
+  "status": "ready",
+  "sessions": 267,
+  "first_date": "2025-10-06",
+  "last_date": "2026-11-03"
+ },
+ "FABTECH.NS": {
+  "symbol": "FABTECH",
+  "name": "Fabtech Technologies Limited",
+  "sector": "Healthcare",
+  "industry": "Health Information Services",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-07",
+  "listing_symbol": "FABTECH",
+  "issue_price": 191.0,
+  "status": "ready",
+  "sessions": 266,
+  "first_date": "2025-10-07",
+  "last_date": "2026-11-03"
+ },
+ "GLOTTIS.NS": {
+  "symbol": "GLOTTIS",
+  "name": "Glottis Limited",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-07",
+  "listing_symbol": "GLOTTIS",
+  "issue_price": 129.0,
+  "status": "ready",
+  "sessions": 266,
+  "first_date": "2025-10-07",
+  "last_date": "2026-11-03"
+ },
+ "ADVANCE.NS": {
+  "symbol": "ADVANCE",
+  "name": "Advance Agrolife Limited",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-08",
+  "listing_symbol": "ADVANCE",
+  "issue_price": 100.0,
+  "status": "ready",
+  "sessions": 265,
+  "first_date": "2025-10-08",
+  "last_date": "2026-11-03"
+ },
+ "OMFREIGHT.NS": {
+  "symbol": "OMFREIGHT",
+  "name": "Om Freight Forwarders Limited",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-08",
+  "listing_symbol": "OMFREIGHT",
+  "issue_price": 135.0,
+  "status": "ready",
+  "sessions": 265,
+  "first_date": "2025-10-08",
+  "last_date": "2026-11-03"
+ },
+ "WEWORK.NS": {
+  "symbol": "WEWORK",
+  "name": "WeWork India Management Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-10",
+  "listing_symbol": "WEWORK",
+  "issue_price": 648.0,
+  "status": "ready",
+  "sessions": 263,
+  "first_date": "2025-10-10",
+  "last_date": "2026-11-03"
+ },
+ "TATACAP.NS": {
+  "symbol": "TATACAP",
+  "name": "Tata Capital Limited",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "sector_source": "user's consolidated file stock_data_consolidated_fixed.csv (internship project, read only)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-13",
+  "listing_symbol": "TATACAP",
+  "issue_price": 326.0,
+  "status": "ready",
+  "sessions": 262,
+  "first_date": "2025-10-13",
+  "last_date": "2026-11-03"
+ },
+ "LGEINDIA.NS": {
+  "symbol": "LGEINDIA",
+  "name": "LG Electronics India Limited",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-14",
+  "listing_symbol": "LGEINDIA",
+  "issue_price": 1140.0,
+  "status": "ready",
+  "sessions": 261,
+  "first_date": "2025-10-14",
+  "last_date": "2026-11-03"
+ },
+ "CRAMC.NS": {
+  "symbol": "CRAMC",
+  "name": "Canara Robeco Asset Management Company Limited",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-16",
+  "listing_symbol": "CRAMC",
+  "issue_price": 266.0,
+  "status": "ready",
+  "sessions": 259,
+  "first_date": "2025-10-16",
+  "last_date": "2026-11-03"
+ },
+ "RUBICON.NS": {
+  "symbol": "RUBICON",
+  "name": "Rubicon Research Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-16",
+  "listing_symbol": "RUBICON",
+  "issue_price": 485.0,
+  "status": "ready",
+  "sessions": 259,
+  "first_date": "2025-10-16",
+  "last_date": "2026-11-03"
+ },
+ "CANHLIFE.NS": {
+  "symbol": "CANHLIFE",
+  "name": "Canara HSBC Life Insurance Company Limited",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-17",
+  "listing_symbol": "CANHLIFE",
+  "issue_price": 106.0,
+  "status": "ready",
+  "sessions": 258,
+  "first_date": "2025-10-17",
+  "last_date": "2026-11-03"
+ },
+ "MIDWESTLTD.NS": {
+  "symbol": "MIDWESTLTD",
+  "name": "Midwest Limited",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-10-24",
+  "listing_symbol": "MIDWESTLTD",
+  "issue_price": 1065.0,
+  "status": "ready",
+  "sessions": 254,
+  "first_date": "2025-10-24",
+  "last_date": "2026-11-03"
+ },
+ "ORKLAINDIA.NS": {
+  "symbol": "ORKLAINDIA",
+  "name": "Orkla India Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-11-06",
+  "listing_symbol": "ORKLAINDIA",
+  "issue_price": 730.0,
+  "status": "ready",
+  "sessions": 246,
+  "first_date": "2025-11-06",
+  "last_date": "2026-11-03"
+ },
+ "STUDDS.NS": {
+  "symbol": "STUDDS",
+  "name": "Studds Accessories Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-11-07",
+  "listing_symbol": "STUDDS",
+  "issue_price": 585.0,
+  "status": "ready",
+  "sessions": 245,
+  "first_date": "2025-11-07",
+  "last_date": "2026-11-03"
+ },
+ "LENSKART.NS": {
+  "symbol": "LENSKART",
+  "name": "Lenskart Solutions Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-11-10",
+  "listing_symbol": "LENSKART",
+  "issue_price": 402.0,
+  "status": "ready",
+  "sessions": 244,
+  "first_date": "2025-11-10",
+  "last_date": "2026-11-03"
+ },
+ "GROWW.NS": {
+  "symbol": "GROWW",
+  "name": "Billionbrains Garage Ventures Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-11-12",
+  "listing_symbol": "GROWW",
+  "issue_price": 100.0,
+  "status": "ready",
+  "sessions": 242,
+  "first_date": "2025-11-12",
+  "last_date": "2026-11-03"
+ },
+ "PINELABS.NS": {
+  "symbol": "PINELABS",
+  "name": "Pine Labs Limited",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-11-14",
+  "listing_symbol": "PINELABS",
+  "issue_price": 221.0,
+  "status": "ready",
+  "sessions": 240,
+  "first_date": "2025-11-14",
+  "last_date": "2026-11-03"
+ },
+ "PWL.NS": {
+  "symbol": "PWL",
+  "name": "Physicswallah Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Education & Training Services",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-11-18",
+  "listing_symbol": "PWL",
+  "issue_price": 109.0,
+  "status": "ready",
+  "sessions": 238,
+  "first_date": "2025-11-18",
+  "last_date": "2026-11-03"
+ },
+ "EMMVEE.NS": {
+  "symbol": "EMMVEE",
+  "name": "Emmvee Photovoltaic Power Limited",
+  "sector": "Technology",
+  "industry": "Solar",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-11-18",
+  "listing_symbol": "EMMVEE",
+  "issue_price": 217.0,
+  "status": "ready",
+  "sessions": 238,
+  "first_date": "2025-11-18",
+  "last_date": "2026-11-03"
+ },
+ "TENNIND.NS": {
+  "symbol": "TENNIND",
+  "name": "Tenneco Clean Air India Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-11-19",
+  "listing_symbol": "TENNIND",
+  "issue_price": 397.0,
+  "status": "ready",
+  "sessions": 237,
+  "first_date": "2025-11-19",
+  "last_date": "2026-11-03"
+ },
+ "UTLSOLAR.NS": {
+  "symbol": "UTLSOLAR",
+  "name": "Fujiyama Power Systems Limited",
+  "sector": "Technology",
+  "industry": "Solar",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-11-20",
+  "listing_symbol": "UTLSOLAR",
+  "issue_price": 228.0,
+  "status": "ready",
+  "sessions": 236,
+  "first_date": "2025-11-20",
+  "last_date": "2026-11-03"
+ },
+ "CAPILLARY.NS": {
+  "symbol": "CAPILLARY",
+  "name": "Capillary Technologies India Limited",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-11-21",
+  "listing_symbol": "CAPILLARY",
+  "issue_price": 577.0,
+  "status": "ready",
+  "sessions": 235,
+  "first_date": "2025-11-21",
+  "last_date": "2026-11-03"
+ },
+ "EXCELSOFT.NS": {
+  "symbol": "EXCELSOFT",
+  "name": "Excelsoft Technologies Limited",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-11-26",
+  "listing_symbol": "EXCELSOFT",
+  "issue_price": 120.0,
+  "status": "ready",
+  "sessions": 232,
+  "first_date": "2025-11-26",
+  "last_date": "2026-11-03"
+ },
+ "SUDEEPPHRM.NS": {
+  "symbol": "SUDEEPPHRM",
+  "name": "Sudeep Pharma Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-11-28",
+  "listing_symbol": "SUDEEPPHRM",
+  "issue_price": 593.0,
+  "status": "ready",
+  "sessions": 230,
+  "first_date": "2025-11-28",
+  "last_date": "2026-11-03"
+ },
+ "MEESHO.NS": {
+  "symbol": "MEESHO",
+  "name": "Meesho Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-12-10",
+  "listing_symbol": "MEESHO",
+  "issue_price": 111.0,
+  "status": "ready",
+  "sessions": 222,
+  "first_date": "2025-12-10",
+  "last_date": "2026-11-03"
+ },
+ "AEQUS.NS": {
+  "symbol": "AEQUS",
+  "name": "Aequs Limited",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-12-10",
+  "listing_symbol": "AEQUS",
+  "issue_price": 124.0,
+  "status": "ready",
+  "sessions": 222,
+  "first_date": "2025-12-10",
+  "last_date": "2026-11-03"
+ },
+ "VIDYAWIRES.NS": {
+  "symbol": "VIDYAWIRES",
+  "name": "Vidya Wires Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-12-10",
+  "listing_symbol": "VIDYAWIRES",
+  "issue_price": 52.0,
+  "status": "ready",
+  "sessions": 222,
+  "first_date": "2025-12-10",
+  "last_date": "2026-11-03"
+ },
+ "WAKEFIT.NS": {
+  "symbol": "WAKEFIT",
+  "name": "Wakefit Innovations Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-12-15",
+  "listing_symbol": "WAKEFIT",
+  "issue_price": 195.0,
+  "status": "ready",
+  "sessions": 219,
+  "first_date": "2025-12-15",
+  "last_date": "2026-11-03"
+ },
+ "CORONA.NS": {
+  "symbol": "CORONA",
+  "name": "CORONA Remedies Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-12-15",
+  "listing_symbol": "CORONA",
+  "issue_price": 1062.0,
+  "status": "ready",
+  "sessions": 219,
+  "first_date": "2025-12-15",
+  "last_date": "2026-11-03"
+ },
+ "NEPHROPLUS.NS": {
+  "symbol": "NEPHROPLUS",
+  "name": "Nephrocare Health Services Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-12-17",
+  "listing_symbol": "NEPHROPLUS",
+  "issue_price": 460.0,
+  "status": "ready",
+  "sessions": 217,
+  "first_date": "2025-12-17",
+  "last_date": "2026-11-03"
+ },
+ "PARKHOSPS.NS": {
+  "symbol": "PARKHOSPS",
+  "name": "Park Medi World Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-12-17",
+  "listing_symbol": "PARKHOSPS",
+  "issue_price": 162.0,
+  "status": "ready",
+  "sessions": 217,
+  "first_date": "2025-12-17",
+  "last_date": "2026-11-03"
+ },
+ "ICICIAMC.NS": {
+  "symbol": "ICICIAMC",
+  "name": "ICICI Prudential Asset Management Company Limited",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-12-19",
+  "listing_symbol": "ICICIAMC",
+  "issue_price": 2165.0,
+  "status": "ready",
+  "sessions": 215,
+  "first_date": "2025-12-19",
+  "last_date": "2026-11-03"
+ },
+ "KSHINTL.NS": {
+  "symbol": "KSHINTL",
+  "name": "KSH International Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-12-23",
+  "listing_symbol": "KSHINTL",
+  "issue_price": 384.0,
+  "status": "ready",
+  "sessions": 213,
+  "first_date": "2025-12-23",
+  "last_date": "2026-11-03"
+ },
+ "GKSL.NS": {
+  "symbol": "GKSL",
+  "name": "Gujarat Kidney And Super Speciality Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2025"
+  ],
+  "listing_date": "2025-12-30",
+  "listing_symbol": "GKSL",
+  "issue_price": 114.0,
+  "status": "ready",
+  "sessions": 209,
+  "first_date": "2025-12-30",
+  "last_date": "2026-11-03"
+ },
+ "BHARATCOAL.NS": {
+  "symbol": "BHARATCOAL",
+  "name": "Bharat Coking Coal Limited",
+  "sector": "Basic Materials",
+  "industry": "Coking Coal",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-01-19",
+  "listing_symbol": "BHARATCOAL",
+  "issue_price": 23.0,
+  "status": "ready",
+  "sessions": 196,
+  "first_date": "2026-01-19",
+  "last_date": "2026-11-03"
+ },
+ "AMAGI.NS": {
+  "symbol": "AMAGI",
+  "name": "Amagi Media Labs Limited",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-01-21",
+  "listing_symbol": "AMAGI",
+  "issue_price": 361.0,
+  "status": "ready",
+  "sessions": 194,
+  "first_date": "2026-01-21",
+  "last_date": "2026-11-03"
+ },
+ "SHADOWFAX.NS": {
+  "symbol": "SHADOWFAX",
+  "name": "Shadowfax Technologies Limited",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-01-28",
+  "listing_symbol": "SHADOWFAX",
+  "issue_price": 124.0,
+  "status": "ready",
+  "sessions": 190,
+  "first_date": "2026-01-28",
+  "last_date": "2026-11-03"
+ },
+ "FRACTAL.NS": {
+  "symbol": "FRACTAL",
+  "name": "Fractal Analytics Limited",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-02-16",
+  "listing_symbol": "FRACTAL",
+  "issue_price": 900.0,
+  "status": "ready",
+  "sessions": 176,
+  "first_date": "2026-02-16",
+  "last_date": "2026-11-03"
+ },
+ "AYE.NS": {
+  "symbol": "AYE",
+  "name": "Aye Finance Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-02-16",
+  "listing_symbol": "AYE",
+  "issue_price": 129.0,
+  "status": "ready",
+  "sessions": 176,
+  "first_date": "2026-02-16",
+  "last_date": "2026-11-03"
+ },
+ "GAUDIUMIVF.NS": {
+  "symbol": "GAUDIUMIVF",
+  "name": "Gaudium IVF and Women Health Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-02-27",
+  "listing_symbol": "GAUDIUMIVF",
+  "issue_price": 79.0,
+  "status": "ready",
+  "sessions": 167,
+  "first_date": "2026-02-27",
+  "last_date": "2026-11-03"
+ },
+ "CLEANMAX.NS": {
+  "symbol": "CLEANMAX",
+  "name": "Clean Max Enviro Energy Solutions Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-03-02",
+  "listing_symbol": "CLEANMAX",
+  "issue_price": 1053.0,
+  "status": "ready",
+  "sessions": 166,
+  "first_date": "2026-03-02",
+  "last_date": "2026-11-03"
+ },
+ "SRTL.NS": {
+  "symbol": "SRTL",
+  "name": "Shree Ram Twistex Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-03-02",
+  "listing_symbol": "SRTL",
+  "issue_price": 104.0,
+  "status": "ready",
+  "sessions": 166,
+  "first_date": "2026-03-02",
+  "last_date": "2026-11-03"
+ },
+ "PNGSREVA.NS": {
+  "symbol": "PNGSREVA",
+  "name": "PNGS Reva Diamond Jewellery Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-03-04",
+  "listing_symbol": "PNGSREVA",
+  "issue_price": 386.0,
+  "status": "ready",
+  "sessions": 165,
+  "first_date": "2026-03-04",
+  "last_date": "2026-11-03"
+ },
+ "OMNI.NS": {
+  "symbol": "OMNI",
+  "name": "Omnitech Engineering Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-03-05",
+  "listing_symbol": "OMNI",
+  "issue_price": 227.0,
+  "status": "ready",
+  "sessions": 164,
+  "first_date": "2026-03-05",
+  "last_date": "2026-11-03"
+ },
+ "SEDEMAC.NS": {
+  "symbol": "SEDEMAC",
+  "name": "SEDEMAC Mechatronics Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-03-11",
+  "listing_symbol": "SEDEMAC",
+  "issue_price": 1352.0,
+  "status": "ready",
+  "sessions": 160,
+  "first_date": "2026-03-11",
+  "last_date": "2026-11-03"
+ },
+ "RSL.NS": {
+  "symbol": "RSL",
+  "name": "Rajputana Stainless Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-03-19",
+  "listing_symbol": "RSL",
+  "issue_price": 122.0,
+  "status": "ready",
+  "sessions": 154,
+  "first_date": "2026-03-19",
+  "last_date": "2026-11-03"
+ },
+ "INNOVISION.NS": {
+  "symbol": "INNOVISION",
+  "name": "Innovision Limited",
+  "sector": "Industrials",
+  "industry": "Staffing & Employment Services",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-03-23",
+  "listing_symbol": "INNOVISION",
+  "issue_price": 519.0,
+  "status": "ready",
+  "sessions": 152,
+  "first_date": "2026-03-23",
+  "last_date": "2026-11-03"
+ },
+ "GSPCROP.NS": {
+  "symbol": "GSPCROP",
+  "name": "GSP Crop Science Limited",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-03-24",
+  "listing_symbol": "GSPCROP",
+  "issue_price": 320.0,
+  "status": "ready",
+  "sessions": 151,
+  "first_date": "2026-03-24",
+  "last_date": "2026-11-03"
+ },
+ "CMPDI.NS": {
+  "symbol": "CMPDI",
+  "name": "Central Mine Planning & Design Institute Limited",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-03-30",
+  "listing_symbol": "CMPDI",
+  "issue_price": 172.0,
+  "status": "ready",
+  "sessions": 148,
+  "first_date": "2026-03-30",
+  "last_date": "2026-11-03"
+ },
+ "SAIPARENT.NS": {
+  "symbol": "SAIPARENT",
+  "name": "Sai Parenterals Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-04-02",
+  "listing_symbol": "SAIPARENT",
+  "issue_price": 392.0,
+  "status": "ready",
+  "sessions": 146,
+  "first_date": "2026-04-02",
+  "last_date": "2026-11-03"
+ },
+ "POWERICA.NS": {
+  "symbol": "POWERICA",
+  "name": "Powerica Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-04-02",
+  "listing_symbol": "POWERICA",
+  "issue_price": 395.0,
+  "status": "ready",
+  "sessions": 146,
+  "first_date": "2026-04-02",
+  "last_date": "2026-11-03"
+ },
+ "AEROPLANE.NS": {
+  "symbol": "AEROPLANE",
+  "name": "Amir Chand Jagdish Kumar (Exports) Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Farm Products",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-04-02",
+  "listing_symbol": "AMIRCHAND",
+  "issue_price": 212.0,
+  "status": "ready",
+  "sessions": 146,
+  "first_date": "2026-04-02",
+  "last_date": "2026-11-03"
+ },
+ "OMPOWER.NS": {
+  "symbol": "OMPOWER",
+  "name": "Om Power Transmission Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-04-17",
+  "listing_symbol": "OMPOWER",
+  "issue_price": 175.0,
+  "status": "ready",
+  "sessions": 137,
+  "first_date": "2026-04-17",
+  "last_date": "2026-11-03"
+ },
+ "KISSHT.NS": {
+  "symbol": "KISSHT",
+  "name": "OnEMI Technology Solutions Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-05-08",
+  "listing_symbol": "KISSHT",
+  "issue_price": 171.0,
+  "status": "ready",
+  "sessions": 123,
+  "first_date": "2026-05-08",
+  "last_date": "2026-11-03"
+ },
+ "CMRGREEN.NS": {
+  "symbol": "CMRGREEN",
+  "name": "CMR Green Technologies Limited",
+  "sector": "Basic Materials",
+  "industry": "Aluminum",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-06-10",
+  "listing_symbol": "CMRGREEN",
+  "issue_price": 192.0,
+  "status": "ready",
+  "sessions": 101,
+  "first_date": "2026-06-10",
+  "last_date": "2026-11-03"
+ },
+ "HEXAGON.NS": {
+  "symbol": "HEXAGON",
+  "name": "Hexagon Nutrition Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-06-12",
+  "listing_symbol": "HEXAGON",
+  "issue_price": 45.0,
+  "status": "ready",
+  "sessions": 99,
+  "first_date": "2026-06-12",
+  "last_date": "2026-11-03"
+ },
+ "TURTLEMINT.NS": {
+  "symbol": "TURTLEMINT",
+  "name": "Turtlemint Fintech Solutions Limited",
+  "sector": "Financial Services",
+  "industry": "Insurance Brokers",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-06-29",
+  "listing_symbol": "TURTLEMINT",
+  "issue_price": 152.0,
+  "status": "ready",
+  "sessions": 89,
+  "first_date": "2026-06-29",
+  "last_date": "2026-11-03"
+ },
+ "RAMBHAJO.NS": {
+  "symbol": "RAMBHAJO",
+  "name": "Advit Jewels Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-07-01",
+  "listing_symbol": "RAMBHAJO",
+  "issue_price": 138.0,
+  "status": "ready",
+  "sessions": 87,
+  "first_date": "2026-07-01",
+  "last_date": "2026-11-03"
+ },
+ "CORDELIA.NS": {
+  "symbol": "CORDELIA",
+  "name": "Waterways Leisure Tourism Limited",
+  "sector": "Industrials",
+  "industry": "Marine Shipping",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-07-01",
+  "listing_symbol": "CORDELIA",
+  "issue_price": 808.0,
+  "status": "ready",
+  "sessions": 87,
+  "first_date": "2026-07-01",
+  "last_date": "2026-11-03"
+ },
+ "CSM.NS": {
+  "symbol": "CSM",
+  "name": "CSM Technologies Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-07-02",
+  "listing_symbol": "CSM",
+  "issue_price": 113.0,
+  "status": "ready",
+  "sessions": 86,
+  "first_date": "2026-07-02",
+  "last_date": "2026-11-03"
+ },
+ "AASTHA.NS": {
+  "symbol": "AASTHA",
+  "name": "Aastha Spintex Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-07-06",
+  "listing_symbol": "AASTHA",
+  "issue_price": 136.0,
+  "status": "ready",
+  "sessions": 84,
+  "first_date": "2026-07-06",
+  "last_date": "2026-11-03"
+ },
+ "KNACK.NS": {
+  "symbol": "KNACK",
+  "name": "Knack Packaging Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-07-08",
+  "listing_symbol": "KNACK",
+  "issue_price": 170.0,
+  "status": "ready",
+  "sessions": 82,
+  "first_date": "2026-07-08",
+  "last_date": "2026-11-03"
+ },
+ "KUSUMGAR.NS": {
+  "symbol": "KUSUMGAR",
+  "name": "Kusumgar Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-07-15",
+  "listing_symbol": "KUSUMGAR",
+  "issue_price": 419.0,
+  "status": "ready",
+  "sessions": 77,
+  "first_date": "2026-07-15",
+  "last_date": "2026-11-03"
+ },
+ "LASERPOWER.NS": {
+  "symbol": "LASERPOWER",
+  "name": "Laser Power & Infra Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-07-16",
+  "listing_symbol": "LASERPOWER",
+  "issue_price": 214.0,
+  "status": "ready",
+  "sessions": 76,
+  "first_date": "2026-07-16",
+  "last_date": "2026-11-03"
+ },
+ "ALPINETEX.NS": {
+  "symbol": "ALPINETEX",
+  "name": "Alpine Texworld Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-07-21",
+  "listing_symbol": "ALPINETEX",
+  "issue_price": 105.0,
+  "status": "ready",
+  "sessions": 73,
+  "first_date": "2026-07-21",
+  "last_date": "2026-11-03"
+ },
+ "SBIFUNDS.NS": {
+  "symbol": "SBIFUNDS",
+  "name": "SBI Funds Management Limited",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-07-21",
+  "listing_symbol": "SBIFUNDS",
+  "issue_price": 574.0,
+  "status": "ready",
+  "sessions": 73,
+  "first_date": "2026-07-21",
+  "last_date": "2026-11-03"
+ },
+ "CMLL.NS": {
+  "symbol": "CMLL",
+  "name": "Caliber Mining and Logistics Limited",
+  "sector": "Energy",
+  "industry": "Thermal Coal",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-07-24",
+  "listing_symbol": "CMLL",
+  "issue_price": 424.0,
+  "status": "ready",
+  "sessions": 70,
+  "first_date": "2026-07-24",
+  "last_date": "2026-11-03"
+ },
+ "INDOMIM.NS": {
+  "symbol": "INDOMIM",
+  "name": "INDO-MIM Limited",
+  "sector": "Industrials",
+  "industry": "Metal Fabrication",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-07-30",
+  "listing_symbol": "INDOMIM",
+  "issue_price": 485.0,
+  "status": "ready",
+  "sessions": 66,
+  "first_date": "2026-07-30",
+  "last_date": "2026-11-03"
+ },
+ "XTRANET.NS": {
+  "symbol": "XTRANET",
+  "name": "Xtranet Technologies Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-07-30",
+  "listing_symbol": "XTRANET",
+  "issue_price": 127.0,
+  "status": "ready",
+  "sessions": 66,
+  "first_date": "2026-07-30",
+  "last_date": "2026-11-03"
+ },
+ "LCL.NS": {
+  "symbol": "LCL",
+  "name": "Lohia Corp Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-07-30",
+  "listing_symbol": "LCL",
+  "issue_price": 425.0,
+  "status": "ready",
+  "sessions": 66,
+  "first_date": "2026-07-30",
+  "last_date": "2026-11-03"
+ },
+ "MANIPALHOS.NS": {
+  "symbol": "MANIPALHOS",
+  "name": "Manipal Health Enterprises Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-05",
+  "listing_symbol": "MANIPALHOS",
+  "issue_price": 590.0,
+  "status": "ready",
+  "sessions": 62,
+  "first_date": "2026-08-05",
+  "last_date": "2026-11-03"
+ },
+ "MVELECTRO.NS": {
+  "symbol": "MVELECTRO",
+  "name": "MV Electrosystems Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-06",
+  "listing_symbol": "MVELECTRO",
+  "issue_price": 425.0,
+  "status": "ready",
+  "sessions": 61,
+  "first_date": "2026-08-06",
+  "last_date": "2026-11-03"
+ },
+ "JNPR.NS": {
+  "symbol": "JNPR",
+  "name": "Juniper Green Energy Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-06",
+  "listing_symbol": "JNPR",
+  "issue_price": 225.0,
+  "status": "ready",
+  "sessions": 61,
+  "first_date": "2026-08-06",
+  "last_date": "2026-11-03"
+ },
+ "ARDEE.NS": {
+  "symbol": "ARDEE",
+  "name": "Ardee Industries Limited",
+  "sector": "Industrials",
+  "industry": "Metal Fabrication",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-12",
+  "listing_symbol": "ARDEE",
+  "issue_price": 53.0,
+  "status": "waiting",
+  "sessions": 57,
+  "first_date": "2026-08-12",
+  "last_date": "2026-11-03"
+ },
+ "LEAPIND.NS": {
+  "symbol": "LEAPIND",
+  "name": "LEAP India Limited",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-14",
+  "listing_symbol": "LEAPIND",
+  "issue_price": 159.0,
+  "status": "waiting",
+  "sessions": 55,
+  "first_date": "2026-08-14",
+  "last_date": "2026-11-03"
+ },
+ "TECHNOCRAF.NS": {
+  "symbol": "TECHNOCRAF",
+  "name": "Technocraft Ventures Limited",
+  "sector": "Industrials",
+  "industry": "Infrastructure Operations",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-14",
+  "listing_symbol": "TECHNOCRAF",
+  "issue_price": 212.0,
+  "status": "waiting",
+  "sessions": 55,
+  "first_date": "2026-08-14",
+  "last_date": "2026-11-03"
+ },
+ "MOLBIO.NS": {
+  "symbol": "MOLBIO",
+  "name": "Molbio Diagnostics Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-17",
+  "listing_symbol": "MOLBIO",
+  "issue_price": 807.0,
+  "status": "waiting",
+  "sessions": 54,
+  "first_date": "2026-08-17",
+  "last_date": "2026-11-03"
+ },
+ "DHOOTTRANS.NS": {
+  "symbol": "DHOOTTRANS",
+  "name": "Dhoot Transmission Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-17",
+  "listing_symbol": "DHOOTTRANS",
+  "issue_price": 871.0,
+  "status": "waiting",
+  "sessions": 54,
+  "first_date": "2026-08-17",
+  "last_date": "2026-11-03"
+ },
+ "MILKYMIST.NS": {
+  "symbol": "MILKYMIST",
+  "name": "Milky Mist Dairy Food Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-18",
+  "listing_symbol": "MILKYMIST",
+  "issue_price": 140.0,
+  "status": "waiting",
+  "sessions": 53,
+  "first_date": "2026-08-18",
+  "last_date": "2026-11-03"
+ },
+ "SHIPROCKET.NS": {
+  "symbol": "SHIPROCKET",
+  "name": "Shiprocket Limited",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-19",
+  "listing_symbol": "SHIPROCKET",
+  "issue_price": 97.0,
+  "status": "waiting",
+  "sessions": 52,
+  "first_date": "2026-08-19",
+  "last_date": "2026-11-03"
+ },
+ "BLEL.NS": {
+  "symbol": "BLEL",
+  "name": "Behari Lal Engineering Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-19",
+  "listing_symbol": "BLEL",
+  "issue_price": 285.0,
+  "status": "waiting",
+  "sessions": 52,
+  "first_date": "2026-08-19",
+  "last_date": "2026-11-03"
+ },
+ "HORIZONIND.NS": {
+  "symbol": "HORIZONIND",
+  "name": "Horizon Industrial Parks Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-24",
+  "listing_symbol": "HORIZONIND",
+  "issue_price": 60.0,
+  "status": "waiting",
+  "sessions": 49,
+  "first_date": "2026-08-24",
+  "last_date": "2026-11-03"
+ },
+ "LALITHAA.NS": {
+  "symbol": "LALITHAA",
+  "name": "Lalithaa Jewellery Mart Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-24",
+  "listing_symbol": "LALITHAA",
+  "issue_price": 201.0,
+  "status": "waiting",
+  "sessions": 49,
+  "first_date": "2026-08-24",
+  "last_date": "2026-11-03"
+ },
+ "SUNSHINE.NS": {
+  "symbol": "SUNSHINE",
+  "name": "Sunshine Pictures Limited",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-25",
+  "listing_symbol": "SUNSHINE",
+  "issue_price": 360.0,
+  "status": "waiting",
+  "sessions": 48,
+  "first_date": "2026-08-25",
+  "last_date": "2026-11-03"
+ },
+ "SHANKESH.NS": {
+  "symbol": "SHANKESH",
+  "name": "Shankesh Jewellers Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-25",
+  "listing_symbol": "SHANKESH",
+  "issue_price": 93.0,
+  "status": "waiting",
+  "sessions": 48,
+  "first_date": "2026-08-25",
+  "last_date": "2026-11-03"
+ },
+ "GAJA.NS": {
+  "symbol": "GAJA",
+  "name": "Gaja Alternative Asset Management Limited",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-26",
+  "listing_symbol": "GAJA",
+  "issue_price": 160.0,
+  "status": "waiting",
+  "sessions": 47,
+  "first_date": "2026-08-26",
+  "last_date": "2026-11-03"
+ },
+ "TEMPSENS.NS": {
+  "symbol": "TEMPSENS",
+  "name": "Tempsens Instruments (India) Limited",
+  "sector": "Technology",
+  "industry": "Scientific & Technical Instruments",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-28",
+  "listing_symbol": "TEMPSENS",
+  "issue_price": 300.0,
+  "status": "waiting",
+  "sessions": 45,
+  "first_date": "2026-08-28",
+  "last_date": "2026-11-03"
+ },
+ "AUGMONT.NS": {
+  "symbol": "AUGMONT",
+  "name": "Augmont Enterprises Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-08-31",
+  "listing_symbol": "AUGMONT",
+  "issue_price": 788.0,
+  "status": "waiting",
+  "sessions": 44,
+  "first_date": "2026-08-31",
+  "last_date": "2026-11-03"
+ },
+ "HTEL.NS": {
+  "symbol": "HTEL",
+  "name": "Hy-Tech Engineers Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-01",
+  "listing_symbol": "HTEL",
+  "issue_price": 53.0,
+  "status": "waiting",
+  "sessions": 43,
+  "first_date": "2026-09-01",
+  "last_date": "2026-11-03"
+ },
+ "SKYWAYS.NS": {
+  "symbol": "SKYWAYS",
+  "name": "Skyways Air Services Limited",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-01",
+  "listing_symbol": "SKYWAYS",
+  "issue_price": 138.0,
+  "status": "waiting",
+  "sessions": 43,
+  "first_date": "2026-09-01",
+  "last_date": "2026-11-03"
+ },
+ "SYMBIOTEC.NS": {
+  "symbol": "SYMBIOTEC",
+  "name": "Symbiotec Pharmalab Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-01",
+  "listing_symbol": "SYMBIOTEC",
+  "issue_price": 988.0,
+  "status": "waiting",
+  "sessions": 43,
+  "first_date": "2026-09-01",
+  "last_date": "2026-11-03"
+ },
+ "ANNU.NS": {
+  "symbol": "ANNU",
+  "name": "Annu Projects Limited",
+  "sector": "Industrials",
+  "industry": "Infrastructure Operations",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-02",
+  "listing_symbol": "ANNU",
+  "issue_price": 99.0,
+  "status": "waiting",
+  "sessions": 42,
+  "first_date": "2026-09-02",
+  "last_date": "2026-11-03"
+ },
+ "LUMINO.NS": {
+  "symbol": "LUMINO",
+  "name": "Lumino Industries Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-03",
+  "listing_symbol": "LUMINO",
+  "issue_price": 82.0,
+  "status": "waiting",
+  "sessions": 41,
+  "first_date": "2026-09-03",
+  "last_date": "2026-11-03"
+ },
+ "ESDS.NS": {
+  "symbol": "ESDS",
+  "name": "ESDS Software Solution Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-04",
+  "listing_symbol": "ESDS",
+  "issue_price": 429.0,
+  "status": "waiting",
+  "sessions": 40,
+  "first_date": "2026-09-04",
+  "last_date": "2026-11-03"
+ },
+ "PRIORITY.NS": {
+  "symbol": "PRIORITY",
+  "name": "Priority Jewels Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-04",
+  "listing_symbol": "PRIORITY",
+  "issue_price": 200.0,
+  "status": "waiting",
+  "sessions": 40,
+  "first_date": "2026-09-04",
+  "last_date": "2026-11-03"
+ },
+ "PERNIASPOP.NS": {
+  "symbol": "PERNIASPOP",
+  "name": "Purple Style Labs Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-07",
+  "listing_symbol": "PERNIASPOP",
+  "issue_price": 575.0,
+  "status": "waiting",
+  "sessions": 39,
+  "first_date": "2026-09-07",
+  "last_date": "2026-11-03"
+ },
+ "MOMSBELIEF.NS": {
+  "symbol": "MOMSBELIEF",
+  "name": "Rays of Belief Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-08",
+  "listing_symbol": "MOMSBELIEF",
+  "issue_price": 239.0,
+  "status": "waiting",
+  "sessions": 38,
+  "first_date": "2026-09-08",
+  "last_date": "2026-11-03"
+ },
+ "DEEPA.NS": {
+  "symbol": "DEEPA",
+  "name": "Deepa Jewellers Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-08",
+  "listing_symbol": "DEEPA",
+  "issue_price": 177.0,
+  "status": "waiting",
+  "sessions": 38,
+  "first_date": "2026-09-08",
+  "last_date": "2026-11-03"
+ },
+ "PRANAV.NS": {
+  "symbol": "PRANAV",
+  "name": "Pranav Constructions Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-15",
+  "listing_symbol": "PRANAV",
+  "issue_price": 124.0,
+  "status": "waiting",
+  "sessions": 34,
+  "first_date": "2026-09-15",
+  "last_date": "2026-11-03"
+ },
+ "PRASOLCHEM.NS": {
+  "symbol": "PRASOLCHEM",
+  "name": "Prasol Chemicals Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-16",
+  "listing_symbol": "PRASOLCHEM",
+  "issue_price": 676.0,
+  "status": "waiting",
+  "sessions": 33,
+  "first_date": "2026-09-16",
+  "last_date": "2026-11-03"
+ },
+ "KANOHAR.NS": {
+  "symbol": "KANOHAR",
+  "name": "Kanohar Electricals Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-16",
+  "listing_symbol": "KANOHAR",
+  "issue_price": 632.0,
+  "status": "waiting",
+  "sessions": 33,
+  "first_date": "2026-09-16",
+  "last_date": "2026-11-03"
+ },
+ "GLASSWALL.NS": {
+  "symbol": "GLASSWALL",
+  "name": "Glass Wall Systems (India) Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-16",
+  "listing_symbol": "GLASSWALL",
+  "issue_price": 182.0,
+  "status": "waiting",
+  "sessions": 33,
+  "first_date": "2026-09-16",
+  "last_date": "2026-11-03"
+ },
+ "STEAMHOUSE.NS": {
+  "symbol": "STEAMHOUSE",
+  "name": "Steamhouse India Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Gas",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-17",
+  "listing_symbol": "STEAMHOUSE",
+  "issue_price": 81.0,
+  "status": "waiting",
+  "sessions": 32,
+  "first_date": "2026-09-17",
+  "last_date": "2026-11-03"
+ },
+ "MPIMANIPAL.NS": {
+  "symbol": "MPIMANIPAL",
+  "name": "Manipal Payment and Identity Solutions Limited",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-17",
+  "listing_symbol": "MPIMANIPAL",
+  "issue_price": 339.0,
+  "status": "waiting",
+  "sessions": 32,
+  "first_date": "2026-09-17",
+  "last_date": "2026-11-03"
+ },
+ "ARCIL.NS": {
+  "symbol": "ARCIL",
+  "name": "Asset Reconstruction Company (India) Limited",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-17",
+  "listing_symbol": "ARCIL",
+  "issue_price": 139.0,
+  "status": "waiting",
+  "sessions": 32,
+  "first_date": "2026-09-17",
+  "last_date": "2026-11-03"
+ },
+ "LCCPROJECT.NS": {
+  "symbol": "LCCPROJECT",
+  "name": "LCC Projects Limited",
+  "sector": "Industrials",
+  "industry": "Infrastructure Operations",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-17",
+  "listing_symbol": "LCCPROJECT",
+  "issue_price": 146.0,
+  "status": "waiting",
+  "sessions": 32,
+  "first_date": "2026-09-17",
+  "last_date": "2026-11-03"
+ },
+ "KARAMTARA.NS": {
+  "symbol": "KARAMTARA",
+  "name": "Karamtara Engineering Limited",
+  "sector": "Technology",
+  "industry": "Solar",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-17",
+  "listing_symbol": "KARAMTARA",
+  "issue_price": 254.0,
+  "status": "waiting",
+  "sessions": 32,
+  "first_date": "2026-09-17",
+  "last_date": "2026-11-03"
+ },
+ "RENTOMOJO.NS": {
+  "symbol": "RENTOMOJO",
+  "name": "Rentomojo Limited",
+  "sector": "Industrials",
+  "industry": "Rental & Leasing Services",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-17",
+  "listing_symbol": "RENTOMOJO",
+  "issue_price": 404.0,
+  "status": "waiting",
+  "sessions": 32,
+  "first_date": "2026-09-17",
+  "last_date": "2026-11-03"
+ },
+ "VEEGALAND.NS": {
+  "symbol": "VEEGALAND",
+  "name": "Veegaland Developers Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Diversified",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-18",
+  "listing_symbol": "VEEGALAND",
+  "issue_price": 140.0,
+  "status": "waiting",
+  "sessions": 31,
+  "first_date": "2026-09-18",
+  "last_date": "2026-11-03"
+ },
+ "MANIKA.NS": {
+  "symbol": "MANIKA",
+  "name": "Manika Plastech Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-21",
+  "listing_symbol": "MANIKA",
+  "issue_price": 43.0,
+  "status": "waiting",
+  "sessions": 30,
+  "first_date": "2026-09-21",
+  "last_date": "2026-11-03"
+ },
+ "HEROMOTORS.NS": {
+  "symbol": "HEROMOTORS",
+  "name": "Hero Motors Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-23",
+  "listing_symbol": "HEROMOTORS",
+  "issue_price": 84.0,
+  "status": "waiting",
+  "sessions": 28,
+  "first_date": "2026-09-23",
+  "last_date": "2026-11-03"
+ },
+ "SSRETAIL.NS": {
+  "symbol": "SSRETAIL",
+  "name": "SS Retail Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-23",
+  "listing_symbol": "SSRETAIL",
+  "issue_price": 424.0,
+  "status": "waiting",
+  "sessions": 28,
+  "first_date": "2026-09-23",
+  "last_date": "2026-11-03"
+ },
+ "JSIPL.NS": {
+  "symbol": "JSIPL",
+  "name": "Jindal Supreme (India) Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-23",
+  "listing_symbol": "JSIPL",
+  "issue_price": 93.0,
+  "status": "waiting",
+  "sessions": 28,
+  "first_date": "2026-09-23",
+  "last_date": "2026-11-03"
+ },
+ "SONA.NS": {
+  "symbol": "SONA",
+  "name": "Sonaselection India Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-24",
+  "listing_symbol": "SONA",
+  "issue_price": 99.0,
+  "status": "waiting",
+  "sessions": 27,
+  "first_date": "2026-09-24",
+  "last_date": "2026-11-03"
+ },
+ "VARMORA.NS": {
+  "symbol": "VARMORA",
+  "name": "Varmora Granito Limited",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-29",
+  "listing_symbol": "VARMORA",
+  "issue_price": 148.0,
+  "status": "waiting",
+  "sessions": 24,
+  "first_date": "2026-09-29",
+  "last_date": "2026-11-03"
+ },
+ "ADROITIND.NS": {
+  "symbol": "ADROITIND",
+  "name": "Adroit Industries (India) Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-30",
+  "listing_symbol": "ADROITIND",
+  "issue_price": 134.0,
+  "status": "waiting",
+  "sessions": 23,
+  "first_date": "2026-09-30",
+  "last_date": "2026-11-03"
+ },
+ "ELEVATE.NS": {
+  "symbol": "ELEVATE",
+  "name": "Elevate Campuses Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-30",
+  "listing_symbol": "ELEVATE",
+  "issue_price": 362.0,
+  "status": "waiting",
+  "sessions": 23,
+  "first_date": "2026-09-30",
+  "last_date": "2026-11-03"
+ },
+ "SWASTIKAIN.NS": {
+  "symbol": "SWASTIKAIN",
+  "name": "Swastika Infra Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-30",
+  "listing_symbol": "SWASTIKAIN",
+  "issue_price": 185.0,
+  "status": "waiting",
+  "sessions": 23,
+  "first_date": "2026-09-30",
+  "last_date": "2026-11-03"
+ },
+ "ARMEE.NS": {
+  "symbol": "ARMEE",
+  "name": "ArMee Infotech Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-09-30",
+  "listing_symbol": "ARMEE",
+  "issue_price": 375.0,
+  "status": "waiting",
+  "sessions": 23,
+  "first_date": "2026-09-30",
+  "last_date": "2026-11-03"
+ },
+ "MONEYVIEW.NS": {
+  "symbol": "MONEYVIEW",
+  "name": "Moneyview Limited",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-01",
+  "listing_symbol": "MONEYVIEW",
+  "issue_price": 34.0,
+  "status": "waiting",
+  "sessions": 22,
+  "first_date": "2026-10-01",
+  "last_date": "2026-11-03"
+ },
+ "AONESTEELS.NS": {
+  "symbol": "AONESTEELS",
+  "name": "A-One Steels India Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-01",
+  "listing_symbol": "AONESTEELS",
+  "issue_price": 405.0,
+  "status": "waiting",
+  "sessions": 22,
+  "first_date": "2026-10-01",
+  "last_date": "2026-11-03"
+ },
+ "RUNWALENTR.NS": {
+  "symbol": "RUNWALENTR",
+  "name": "Runwal Enterprises Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-05",
+  "listing_symbol": "RUNWALENTR",
+  "issue_price": 305.0,
+  "status": "waiting",
+  "sessions": 21,
+  "first_date": "2026-10-05",
+  "last_date": "2026-11-03"
+ },
+ "GERMAN.NS": {
+  "symbol": "GERMAN",
+  "name": "German Green Steel and Power Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-05",
+  "listing_symbol": "GERMAN",
+  "issue_price": 139.0,
+  "status": "waiting",
+  "sessions": 21,
+  "first_date": "2026-10-05",
+  "last_date": "2026-11-03"
+ },
+ "ACEVECTOR.NS": {
+  "symbol": "ACEVECTOR",
+  "name": "AceVector Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-05",
+  "listing_symbol": "ACEVECTOR",
+  "issue_price": 32.0,
+  "status": "waiting",
+  "sessions": 21,
+  "first_date": "2026-10-05",
+  "last_date": "2026-11-03"
+ },
+ "ORIENTCABL.NS": {
+  "symbol": "ORIENTCABL",
+  "name": "Orient Cables (India) Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-05",
+  "listing_symbol": "ORIENTCABL",
+  "issue_price": 272.0,
+  "status": "waiting",
+  "sessions": 21,
+  "first_date": "2026-10-05",
+  "last_date": "2026-11-03"
+ },
+ "SRIT.NS": {
+  "symbol": "SRIT",
+  "name": "SRIT India Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-06",
+  "listing_symbol": "SRIT",
+  "issue_price": 130.0,
+  "status": "waiting",
+  "sessions": 20,
+  "first_date": "2026-10-06",
+  "last_date": "2026-11-03"
+ },
+ "SHAHINVEST.NS": {
+  "symbol": "SHAHINVEST",
+  "name": "Shah Investor's Home Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-06",
+  "listing_symbol": "SHAHINVEST",
+  "issue_price": 167.0,
+  "status": "waiting",
+  "sessions": 20,
+  "first_date": "2026-10-06",
+  "last_date": "2026-11-03"
+ },
+ "NITYAS.NS": {
+  "symbol": "NITYAS",
+  "name": "Nityas Gems and Jewellery Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-08",
+  "listing_symbol": "NITYAS",
+  "issue_price": 75.0,
+  "status": "waiting",
+  "sessions": 18,
+  "first_date": "2026-10-08",
+  "last_date": "2026-11-03"
+ },
+ "VNL.NS": {
+  "symbol": "VNL",
+  "name": "Vishal Nirmiti Limited",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-08",
+  "listing_symbol": "VNL",
+  "issue_price": 220.0,
+  "status": "waiting",
+  "sessions": 18,
+  "first_date": "2026-10-08",
+  "last_date": "2026-11-03"
+ },
+ "HDFIRE.NS": {
+  "symbol": "HDFIRE",
+  "name": "HD Fire Protect Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-21",
+  "listing_symbol": "HDFIRE",
+  "issue_price": 271.0,
+  "status": "waiting",
+  "sessions": 10,
+  "first_date": "2026-10-21",
+  "last_date": "2026-11-03"
+ },
+ "FUSIONCX.NS": {
+  "symbol": "FUSIONCX",
+  "name": "Fusion CX Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-22",
+  "listing_symbol": "FUSIONCX",
+  "issue_price": 289.0,
+  "status": "waiting",
+  "sessions": 9,
+  "first_date": "2026-10-22",
+  "last_date": "2026-11-03"
+ },
+ "TONBO.NS": {
+  "symbol": "TONBO",
+  "name": "Tonbo Imaging India Limited",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-23",
+  "listing_symbol": "TONBO",
+  "issue_price": 700.0,
+  "status": "waiting",
+  "sessions": 8,
+  "first_date": "2026-10-23",
+  "last_date": "2026-11-03"
+ },
+ "ZETWERK.NS": {
+  "symbol": "ZETWERK",
+  "name": "Zetwerk Manufacturing Businesses Limited",
+  "sector": "Industrials",
+  "industry": "Metal Fabrication",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-23",
+  "listing_symbol": "ZETWERK",
+  "issue_price": 151.0,
+  "status": "waiting",
+  "sessions": 8,
+  "first_date": "2026-10-23",
+  "last_date": "2026-11-03"
+ },
+ "BONFIG.NS": {
+  "symbol": "BONFIG",
+  "name": "Bonfiglioli Transmissions Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-23",
+  "listing_symbol": "BONFIG",
+  "issue_price": 586.0,
+  "status": "waiting",
+  "sessions": 8,
+  "first_date": "2026-10-23",
+  "last_date": "2026-11-03"
+ },
+ "SMT.NS": {
+  "symbol": "SMT",
+  "name": "Sahajanand Medical Technologies Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Devices",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-23",
+  "listing_symbol": "SMT",
+  "issue_price": 344.0,
+  "status": "waiting",
+  "sessions": 8,
+  "first_date": "2026-10-23",
+  "last_date": "2026-11-03"
+ },
+ "JPL.NS": {
+  "symbol": "JPL",
+  "name": "Jio Platforms Limited",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-28",
+  "listing_symbol": "JPL",
+  "issue_price": 1119.0,
+  "status": "waiting",
+  "sessions": 5,
+  "first_date": "2026-10-28",
+  "last_date": "2026-11-03"
+ },
+ "PARASHLTH.NS": {
+  "symbol": "PARASHLTH",
+  "name": "Paras Healthcare Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-10-28",
+  "listing_symbol": "PARASHLTH",
+  "issue_price": 693.0,
+  "status": "waiting",
+  "sessions": 5,
+  "first_date": "2026-10-28",
+  "last_date": "2026-11-03"
+ },
+ "EDELALTS.NS": {
+  "symbol": "EDELALTS",
+  "name": "EAAA India Alternatives Limited",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "sector_source": "Yahoo Finance company profile via yfinance (unofficial)",
+  "tags": [
+   "IPO 2026"
+  ],
+  "listing_date": "2026-11-02",
+  "listing_symbol": "EDELALTS",
+  "issue_price": 1665.0,
+  "status": "waiting",
+  "sessions": 2,
+  "first_date": "2026-11-02",
+  "last_date": "2026-11-03"
+ }
+}

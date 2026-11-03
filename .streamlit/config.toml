@@ -1,0 +1,14 @@
+# Keep the app light regardless of the browser/OS theme: the charts use fixed
+# light colours, and Streamlit's dark theme made their text unreadable.
+[theme]
+base = "light"
+backgroundColor = "#fcfcfb"
+secondaryBackgroundColor = "#f3f2ef"
+textColor = "#0b0b0b"
+primaryColor = "#2a78d6"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
