@@ -12,9 +12,9 @@
   "listing_symbol": "AFCONS",
   "issue_price": 463.0,
   "status": "ready",
-  "sessions": 500,
+  "sessions": 503,
   "first_date": "2024-11-04",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SAGILITY.NS": {
   "symbol": "SAGILITY",
@@ -29,9 +29,9 @@
   "listing_symbol": "SAGILITY",
   "issue_price": 30.0,
   "status": "ready",
-  "sessions": 494,
+  "sessions": 497,
   "first_date": "2024-11-12",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ACMESOLAR.NS": {
   "symbol": "ACMESOLAR",
@@ -46,9 +46,9 @@
   "listing_symbol": "ACMESOLAR",
   "issue_price": 289.0,
   "status": "ready",
-  "sessions": 493,
+  "sessions": 496,
   "first_date": "2024-11-13",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SWIGGY.NS": {
   "symbol": "SWIGGY",
@@ -63,9 +63,9 @@
   "listing_symbol": "SWIGGY",
   "issue_price": 390.0,
   "status": "ready",
-  "sessions": 493,
+  "sessions": 496,
   "first_date": "2024-11-13",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "NIVABUPA.NS": {
   "symbol": "NIVABUPA",
@@ -80,9 +80,9 @@
   "listing_symbol": "NIVABUPA",
   "issue_price": 74.0,
   "status": "ready",
-  "sessions": 492,
+  "sessions": 495,
   "first_date": "2024-11-14",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "BLACKBUCK.NS": {
   "symbol": "BLACKBUCK",
@@ -97,9 +97,9 @@
   "listing_symbol": "BLACKBUCK",
   "issue_price": 273.0,
   "status": "ready",
-  "sessions": 488,
+  "sessions": 491,
   "first_date": "2024-11-22",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "NTPCGREEN.NS": {
   "symbol": "NTPCGREEN",
@@ -114,9 +114,9 @@
   "listing_symbol": "NTPCGREEN",
   "issue_price": 108.0,
   "status": "ready",
-  "sessions": 485,
+  "sessions": 488,
   "first_date": "2024-11-27",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "EIEL.NS": {
   "symbol": "EIEL",
@@ -131,9 +131,9 @@
   "listing_symbol": "EIEL",
   "issue_price": 148.0,
   "status": "ready",
-  "sessions": 483,
+  "sessions": 486,
   "first_date": "2024-11-29",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SURAKSHA.NS": {
   "symbol": "SURAKSHA",
@@ -148,9 +148,9 @@
   "listing_symbol": "SURAKSHA",
   "issue_price": 441.0,
   "status": "ready",
-  "sessions": 478,
+  "sessions": 481,
   "first_date": "2024-12-06",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "MOBIKWIK.NS": {
   "symbol": "MOBIKWIK",
@@ -165,9 +165,9 @@
   "listing_symbol": "MOBIKWIK",
   "issue_price": 279.0,
   "status": "ready",
-  "sessions": 470,
+  "sessions": 473,
   "first_date": "2024-12-18",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SAILIFE.NS": {
   "symbol": "SAILIFE",
@@ -182,9 +182,9 @@
   "listing_symbol": "SAILIFE",
   "issue_price": 549.0,
   "status": "ready",
-  "sessions": 470,
+  "sessions": 473,
   "first_date": "2024-12-18",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "VMM.NS": {
   "symbol": "VMM",
@@ -199,9 +199,9 @@
   "listing_symbol": "VMM",
   "issue_price": 78.0,
   "status": "ready",
-  "sessions": 470,
+  "sessions": 473,
   "first_date": "2024-12-18",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "IKS.NS": {
   "symbol": "IKS",
@@ -216,9 +216,9 @@
   "listing_symbol": "IKS",
   "issue_price": 1329.0,
   "status": "ready",
-  "sessions": 469,
+  "sessions": 472,
   "first_date": "2024-12-19",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "IGIL.NS": {
   "symbol": "IGIL",
@@ -233,9 +233,9 @@
   "listing_symbol": "IGIL",
   "issue_price": 417.0,
   "status": "ready",
-  "sessions": 468,
+  "sessions": 471,
   "first_date": "2024-12-20",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "DAMCAPITAL.NS": {
   "symbol": "DAMCAPITAL",
@@ -250,9 +250,9 @@
   "listing_symbol": "DAMCAPITAL",
   "issue_price": 283.0,
   "status": "ready",
-  "sessions": 464,
+  "sessions": 467,
   "first_date": "2024-12-27",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SANATHAN.NS": {
   "symbol": "SANATHAN",
@@ -267,9 +267,9 @@
   "listing_symbol": "SANATHAN",
   "issue_price": 321.0,
   "status": "ready",
-  "sessions": 464,
+  "sessions": 467,
   "first_date": "2024-12-27",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "TRANSRAILL.NS": {
   "symbol": "TRANSRAILL",
@@ -284,9 +284,9 @@
   "listing_symbol": "TRANSRAILL",
   "issue_price": 432.0,
   "status": "ready",
-  "sessions": 464,
+  "sessions": 467,
   "first_date": "2024-12-27",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "CEWATER.NS": {
   "symbol": "CEWATER",
@@ -301,9 +301,9 @@
   "listing_symbol": "CEWATER",
   "issue_price": 701.0,
   "status": "ready",
-  "sessions": 464,
+  "sessions": 467,
   "first_date": "2024-12-27",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "MAMATA.NS": {
   "symbol": "MAMATA",
@@ -318,9 +318,9 @@
   "listing_symbol": "MAMATA",
   "issue_price": 243.0,
   "status": "ready",
-  "sessions": 464,
+  "sessions": 467,
   "first_date": "2024-12-27",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "VENTIVE.NS": {
   "symbol": "VENTIVE",
@@ -335,9 +335,9 @@
   "listing_symbol": "VENTIVE",
   "issue_price": 643.0,
   "status": "ready",
-  "sessions": 463,
+  "sessions": 466,
   "first_date": "2024-12-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "CARRARO.NS": {
   "symbol": "CARRARO",
@@ -352,9 +352,9 @@
   "listing_symbol": "CARRARO",
   "issue_price": 704.0,
   "status": "ready",
-  "sessions": 463,
+  "sessions": 466,
   "first_date": "2024-12-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SENORES.NS": {
   "symbol": "SENORES",
@@ -369,9 +369,9 @@
   "listing_symbol": "SENORES",
   "issue_price": 391.0,
   "status": "ready",
-  "sessions": 463,
+  "sessions": 466,
   "first_date": "2024-12-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "UNIMECH.NS": {
   "symbol": "UNIMECH",
@@ -386,9 +386,9 @@
   "listing_symbol": "UNIMECH",
   "issue_price": 785.0,
   "status": "ready",
-  "sessions": 462,
+  "sessions": 465,
   "first_date": "2024-12-31",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "INDOFARM.NS": {
   "symbol": "INDOFARM",
@@ -403,9 +403,9 @@
   "listing_symbol": "INDOFARM",
   "issue_price": 215.0,
   "status": "ready",
-  "sessions": 457,
+  "sessions": 460,
   "first_date": "2025-01-07",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SETL.NS": {
   "symbol": "SETL",
@@ -420,9 +420,9 @@
   "listing_symbol": "SGLTL",
   "issue_price": 140.0,
   "status": "ready",
-  "sessions": 453,
+  "sessions": 456,
   "first_date": "2025-01-13",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "QUADFUTURE.NS": {
   "symbol": "QUADFUTURE",
@@ -437,9 +437,9 @@
   "listing_symbol": "QUADFUTURE",
   "issue_price": 290.0,
   "status": "ready",
-  "sessions": 452,
+  "sessions": 455,
   "first_date": "2025-01-14",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "LAXMIDENTL.NS": {
   "symbol": "LAXMIDENTL",
@@ -454,9 +454,9 @@
   "listing_symbol": "LAXMIDENTL",
   "issue_price": 428.0,
   "status": "ready",
-  "sessions": 448,
+  "sessions": 451,
   "first_date": "2025-01-20",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "STALLION.NS": {
   "symbol": "STALLION",
@@ -471,9 +471,9 @@
   "listing_symbol": "STALLION",
   "issue_price": 90.0,
   "status": "ready",
-  "sessions": 445,
+  "sessions": 448,
   "first_date": "2025-01-23",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "DENTA.NS": {
   "symbol": "DENTA",
@@ -488,9 +488,9 @@
   "listing_symbol": "DENTA",
   "issue_price": 294.0,
   "status": "ready",
-  "sessions": 441,
+  "sessions": 444,
   "first_date": "2025-01-29",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "AGARWALEYE.NS": {
   "symbol": "AGARWALEYE",
@@ -505,9 +505,9 @@
   "listing_symbol": "AGARWALEYE",
   "issue_price": 402.0,
   "status": "ready",
-  "sessions": 436,
+  "sessions": 439,
   "first_date": "2025-02-04",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "AJAXENGG.NS": {
   "symbol": "AJAXENGG",
@@ -522,9 +522,9 @@
   "listing_symbol": "AJAXENGG",
   "issue_price": 629.0,
   "status": "ready",
-  "sessions": 427,
+  "sessions": 430,
   "first_date": "2025-02-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "HEXT.NS": {
   "symbol": "HEXT",
@@ -539,9 +539,9 @@
   "listing_symbol": "HEXT",
   "issue_price": 708.0,
   "status": "ready",
-  "sessions": 425,
+  "sessions": 428,
   "first_date": "2025-02-19",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "QPOWER.NS": {
   "symbol": "QPOWER",
@@ -556,9 +556,9 @@
   "listing_symbol": "QPOWER",
   "issue_price": 425.0,
   "status": "ready",
-  "sessions": 422,
+  "sessions": 425,
   "first_date": "2025-02-24",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ATHERENERG.NS": {
   "symbol": "ATHERENERG",
@@ -573,9 +573,9 @@
   "listing_symbol": "ATHERENERG",
   "issue_price": 321.0,
   "status": "ready",
-  "sessions": 378,
+  "sessions": 381,
   "first_date": "2025-05-06",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "BORANA.NS": {
   "symbol": "BORANA",
@@ -590,9 +590,9 @@
   "listing_symbol": "BORANA",
   "issue_price": 216.0,
   "status": "ready",
-  "sessions": 363,
+  "sessions": 366,
   "first_date": "2025-05-27",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "BELRISE.NS": {
   "symbol": "BELRISE",
@@ -607,9 +607,9 @@
   "listing_symbol": "BELRISE",
   "issue_price": 90.0,
   "status": "ready",
-  "sessions": 362,
+  "sessions": 365,
   "first_date": "2025-05-28",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "THELEELA.NS": {
   "symbol": "THELEELA",
@@ -624,9 +624,9 @@
   "listing_symbol": "THELEELA",
   "issue_price": 435.0,
   "status": "ready",
-  "sessions": 359,
+  "sessions": 362,
   "first_date": "2025-06-02",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "AEGISVOPAK.NS": {
   "symbol": "AEGISVOPAK",
@@ -641,9 +641,9 @@
   "listing_symbol": "AEGISVOPAK",
   "issue_price": 235.0,
   "status": "ready",
-  "sessions": 359,
+  "sessions": 362,
   "first_date": "2025-06-02",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "PROSTARM.NS": {
   "symbol": "PROSTARM",
@@ -658,9 +658,9 @@
   "listing_symbol": "PROSTARM",
   "issue_price": 105.0,
   "status": "ready",
-  "sessions": 358,
+  "sessions": 361,
   "first_date": "2025-06-03",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SCODATUBES.NS": {
   "symbol": "SCODATUBES",
@@ -675,9 +675,9 @@
   "listing_symbol": "SCODATUBES",
   "issue_price": 140.0,
   "status": "ready",
-  "sessions": 357,
+  "sessions": 360,
   "first_date": "2025-06-04",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "OSWALPUMPS.NS": {
   "symbol": "OSWALPUMPS",
@@ -692,9 +692,9 @@
   "listing_symbol": "OSWALPUMPS",
   "issue_price": 614.0,
   "status": "ready",
-  "sessions": 345,
+  "sessions": 348,
   "first_date": "2025-06-20",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ARIS.NS": {
   "symbol": "ARIS",
@@ -709,9 +709,9 @@
   "listing_symbol": "ARISINFRA",
   "issue_price": 222.0,
   "status": "ready",
-  "sessions": 342,
+  "sessions": 345,
   "first_date": "2025-06-25",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ELLEN.NS": {
   "symbol": "ELLEN",
@@ -726,9 +726,9 @@
   "listing_symbol": "ELLEN",
   "issue_price": 400.0,
   "status": "ready",
-  "sessions": 338,
+  "sessions": 341,
   "first_date": "2025-07-01",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "KALPATARU.NS": {
   "symbol": "KALPATARU",
@@ -743,9 +743,9 @@
   "listing_symbol": "KALPATARU",
   "issue_price": 414.0,
   "status": "ready",
-  "sessions": 338,
+  "sessions": 341,
   "first_date": "2025-07-01",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SAMBHV.NS": {
   "symbol": "SAMBHV",
@@ -760,9 +760,9 @@
   "listing_symbol": "SAMBHV",
   "issue_price": 82.0,
   "status": "ready",
-  "sessions": 337,
+  "sessions": 340,
   "first_date": "2025-07-02",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "HDBFS.NS": {
   "symbol": "HDBFS",
@@ -777,9 +777,9 @@
   "listing_symbol": "HDBFS",
   "issue_price": 740.0,
   "status": "ready",
-  "sessions": 337,
+  "sessions": 340,
   "first_date": "2025-07-02",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "IGCL.NS": {
   "symbol": "IGCL",
@@ -794,9 +794,9 @@
   "listing_symbol": "IGCL",
   "issue_price": 111.0,
   "status": "ready",
-  "sessions": 336,
+  "sessions": 339,
   "first_date": "2025-07-03",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "CRIZAC.NS": {
   "symbol": "CRIZAC",
@@ -811,9 +811,9 @@
   "listing_symbol": "CRIZAC",
   "issue_price": 245.0,
   "status": "ready",
-  "sessions": 332,
+  "sessions": 335,
   "first_date": "2025-07-09",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "TRAVELFOOD.NS": {
   "symbol": "TRAVELFOOD",
@@ -828,9 +828,9 @@
   "listing_symbol": "TRAVELFOOD",
   "issue_price": 1100.0,
   "status": "ready",
-  "sessions": 329,
+  "sessions": 332,
   "first_date": "2025-07-14",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SMARTWORKS.NS": {
   "symbol": "SMARTWORKS",
@@ -845,9 +845,9 @@
   "listing_symbol": "SMARTWORKS",
   "issue_price": 407.0,
   "status": "ready",
-  "sessions": 326,
+  "sessions": 329,
   "first_date": "2025-07-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ANTHEM.NS": {
   "symbol": "ANTHEM",
@@ -862,9 +862,9 @@
   "listing_symbol": "ANTHEM",
   "issue_price": 570.0,
   "status": "ready",
-  "sessions": 324,
+  "sessions": 327,
   "first_date": "2025-07-21",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "INDIQUBE.NS": {
   "symbol": "INDIQUBE",
@@ -879,9 +879,9 @@
   "listing_symbol": "INDIQUBE",
   "issue_price": 237.0,
   "status": "ready",
-  "sessions": 317,
+  "sessions": 320,
   "first_date": "2025-07-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "EBGNG.NS": {
   "symbol": "EBGNG",
@@ -896,9 +896,9 @@
   "listing_symbol": "EBGNG",
   "issue_price": 237.0,
   "status": "ready",
-  "sessions": 317,
+  "sessions": 320,
   "first_date": "2025-07-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "BRIGHOTEL.NS": {
   "symbol": "BRIGHOTEL",
@@ -913,9 +913,9 @@
   "listing_symbol": "BRIGHOTEL",
   "issue_price": 90.0,
   "status": "ready",
-  "sessions": 316,
+  "sessions": 319,
   "first_date": "2025-07-31",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SHANTIGOLD.NS": {
   "symbol": "SHANTIGOLD",
@@ -930,9 +930,9 @@
   "listing_symbol": "SHANTIGOLD",
   "issue_price": 199.0,
   "status": "ready",
-  "sessions": 315,
+  "sessions": 318,
   "first_date": "2025-08-01",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "LAXMIINDIA.NS": {
   "symbol": "LAXMIINDIA",
@@ -947,9 +947,9 @@
   "listing_symbol": "LAXMIINDIA",
   "issue_price": 158.0,
   "status": "ready",
-  "sessions": 313,
+  "sessions": 316,
   "first_date": "2025-08-05",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "CPPLUS.NS": {
   "symbol": "CPPLUS",
@@ -964,9 +964,9 @@
   "listing_symbol": "CPPLUS",
   "issue_price": 675.0,
   "status": "ready",
-  "sessions": 313,
+  "sessions": 316,
   "first_date": "2025-08-05",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "MBEL.NS": {
   "symbol": "MBEL",
@@ -981,9 +981,9 @@
   "listing_symbol": "MBEL",
   "issue_price": 385.0,
   "status": "ready",
-  "sessions": 312,
+  "sessions": 315,
   "first_date": "2025-08-06",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "LOTUSDEV.NS": {
   "symbol": "LOTUSDEV",
@@ -998,9 +998,9 @@
   "listing_symbol": "LOTUSDEV",
   "issue_price": 150.0,
   "status": "ready",
-  "sessions": 312,
+  "sessions": 315,
   "first_date": "2025-08-06",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "HILINFRA.NS": {
   "symbol": "HILINFRA",
@@ -1015,9 +1015,9 @@
   "listing_symbol": "HILINFRA",
   "issue_price": 70.0,
   "status": "ready",
-  "sessions": 308,
+  "sessions": 311,
   "first_date": "2025-08-12",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ALLTIME.NS": {
   "symbol": "ALLTIME",
@@ -1032,9 +1032,9 @@
   "listing_symbol": "ALLTIME",
   "issue_price": 275.0,
   "status": "ready",
-  "sessions": 306,
+  "sessions": 309,
   "first_date": "2025-08-14",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "JSWCEMENT.NS": {
   "symbol": "JSWCEMENT",
@@ -1049,9 +1049,9 @@
   "listing_symbol": "JSWCEMENT",
   "issue_price": 147.0,
   "status": "ready",
-  "sessions": 306,
+  "sessions": 309,
   "first_date": "2025-08-14",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "BLUESTONE.NS": {
   "symbol": "BLUESTONE",
@@ -1066,9 +1066,9 @@
   "listing_symbol": "BLUESTONE",
   "issue_price": 517.0,
   "status": "ready",
-  "sessions": 304,
+  "sessions": 307,
   "first_date": "2025-08-19",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "REGAAL.NS": {
   "symbol": "REGAAL",
@@ -1083,9 +1083,9 @@
   "listing_symbol": "REGAAL",
   "issue_price": 102.0,
   "status": "ready",
-  "sessions": 303,
+  "sessions": 306,
   "first_date": "2025-08-20",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SHREEJISPG.NS": {
   "symbol": "SHREEJISPG",
@@ -1100,9 +1100,9 @@
   "listing_symbol": "SHREEJISPG",
   "issue_price": 252.0,
   "status": "ready",
-  "sessions": 299,
+  "sessions": 302,
   "first_date": "2025-08-26",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "GEMAROMA.NS": {
   "symbol": "GEMAROMA",
@@ -1117,9 +1117,9 @@
   "listing_symbol": "GEMAROMA",
   "issue_price": 325.0,
   "status": "ready",
-  "sessions": 299,
+  "sessions": 302,
   "first_date": "2025-08-26",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "PATELRMART.NS": {
   "symbol": "PATELRMART",
@@ -1134,9 +1134,9 @@
   "listing_symbol": "PATELRMART",
   "issue_price": 255.0,
   "status": "ready",
-  "sessions": 299,
+  "sessions": 302,
   "first_date": "2025-08-26",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "VIKRAMSOLR.NS": {
   "symbol": "VIKRAMSOLR",
@@ -1151,9 +1151,9 @@
   "listing_symbol": "VIKRAMSOLR",
   "issue_price": 332.0,
   "status": "ready",
-  "sessions": 299,
+  "sessions": 302,
   "first_date": "2025-08-26",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "MEIL.NS": {
   "symbol": "MEIL",
@@ -1168,9 +1168,9 @@
   "listing_symbol": "MEIL",
   "issue_price": 561.0,
   "status": "ready",
-  "sessions": 298,
+  "sessions": 301,
   "first_date": "2025-08-28",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "VIKRAN.NS": {
   "symbol": "VIKRAN",
@@ -1185,9 +1185,9 @@
   "listing_symbol": "VIKRAN",
   "issue_price": 97.0,
   "status": "ready",
-  "sessions": 294,
+  "sessions": 297,
   "first_date": "2025-09-03",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "AMANTA.NS": {
   "symbol": "AMANTA",
@@ -1202,9 +1202,9 @@
   "listing_symbol": "AMANTA",
   "issue_price": 126.0,
   "status": "ready",
-  "sessions": 290,
+  "sessions": 293,
   "first_date": "2025-09-09",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SHRINGARMS.NS": {
   "symbol": "SHRINGARMS",
@@ -1219,9 +1219,9 @@
   "listing_symbol": "SHRINGARMS",
   "issue_price": 165.0,
   "status": "ready",
-  "sessions": 284,
+  "sessions": 287,
   "first_date": "2025-09-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "DEVX.NS": {
   "symbol": "DEVX",
@@ -1236,9 +1236,9 @@
   "listing_symbol": "DEVX",
   "issue_price": 61.0,
   "status": "ready",
-  "sessions": 284,
+  "sessions": 287,
   "first_date": "2025-09-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "URBANCO.NS": {
   "symbol": "URBANCO",
@@ -1253,9 +1253,9 @@
   "listing_symbol": "URBANCO",
   "issue_price": 103.0,
   "status": "ready",
-  "sessions": 284,
+  "sessions": 287,
   "first_date": "2025-09-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "EUROPRATIK.NS": {
   "symbol": "EUROPRATIK",
@@ -1270,9 +1270,9 @@
   "listing_symbol": "EUROPRATIK",
   "issue_price": 247.0,
   "status": "ready",
-  "sessions": 280,
+  "sessions": 283,
   "first_date": "2025-09-23",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "VMSTMT.NS": {
   "symbol": "VMSTMT",
@@ -1287,9 +1287,9 @@
   "listing_symbol": "VMSTMT",
   "issue_price": 99.0,
   "status": "ready",
-  "sessions": 279,
+  "sessions": 282,
   "first_date": "2025-09-24",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "IVALUE.NS": {
   "symbol": "IVALUE",
@@ -1304,9 +1304,9 @@
   "listing_symbol": "IVALUE",
   "issue_price": 299.0,
   "status": "ready",
-  "sessions": 278,
+  "sessions": 281,
   "first_date": "2025-09-25",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SAATVIKGL.NS": {
   "symbol": "SAATVIKGL",
@@ -1321,9 +1321,9 @@
   "listing_symbol": "SAATVIKGL",
   "issue_price": 465.0,
   "status": "ready",
-  "sessions": 277,
+  "sessions": 280,
   "first_date": "2025-09-26",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "GKENERGY.NS": {
   "symbol": "GKENERGY",
@@ -1338,9 +1338,9 @@
   "listing_symbol": "GKENERGY",
   "issue_price": 153.0,
   "status": "ready",
-  "sessions": 277,
+  "sessions": 280,
   "first_date": "2025-09-26",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ATLANTAELE.NS": {
   "symbol": "ATLANTAELE",
@@ -1355,9 +1355,9 @@
   "listing_symbol": "ATLANTAELE",
   "issue_price": 754.0,
   "status": "ready",
-  "sessions": 276,
+  "sessions": 279,
   "first_date": "2025-09-29",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "GANESHCP.NS": {
   "symbol": "GANESHCP",
@@ -1372,9 +1372,9 @@
   "listing_symbol": "GANESHCP",
   "issue_price": 322.0,
   "status": "ready",
-  "sessions": 276,
+  "sessions": 279,
   "first_date": "2025-09-29",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "STYL.NS": {
   "symbol": "STYL",
@@ -1389,9 +1389,9 @@
   "listing_symbol": "STYL",
   "issue_price": 423.0,
   "status": "ready",
-  "sessions": 275,
+  "sessions": 278,
   "first_date": "2025-09-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ARSSBL.NS": {
   "symbol": "ARSSBL",
@@ -1406,9 +1406,9 @@
   "listing_symbol": "ARSSBL",
   "issue_price": 414.0,
   "status": "ready",
-  "sessions": 275,
+  "sessions": 278,
   "first_date": "2025-09-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "JARO.NS": {
   "symbol": "JARO",
@@ -1423,9 +1423,9 @@
   "listing_symbol": "JARO",
   "issue_price": 890.0,
   "status": "ready",
-  "sessions": 275,
+  "sessions": 278,
   "first_date": "2025-09-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SOLARWORLD.NS": {
   "symbol": "SOLARWORLD",
@@ -1440,9 +1440,9 @@
   "listing_symbol": "SOLARWORLD",
   "issue_price": 351.0,
   "status": "ready",
-  "sessions": 275,
+  "sessions": 278,
   "first_date": "2025-09-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "JAINREC.NS": {
   "symbol": "JAINREC",
@@ -1457,9 +1457,9 @@
   "listing_symbol": "JAINREC",
   "issue_price": 232.0,
   "status": "ready",
-  "sessions": 274,
+  "sessions": 277,
   "first_date": "2025-10-01",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "EPACKPEB.NS": {
   "symbol": "EPACKPEB",
@@ -1474,9 +1474,9 @@
   "listing_symbol": "EPACKPEB",
   "issue_price": 204.0,
   "status": "ready",
-  "sessions": 274,
+  "sessions": 277,
   "first_date": "2025-10-01",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "BMWVENTLTD.NS": {
   "symbol": "BMWVENTLTD",
@@ -1491,9 +1491,9 @@
   "listing_symbol": "BMWVENTLTD",
   "issue_price": 99.0,
   "status": "ready",
-  "sessions": 274,
+  "sessions": 277,
   "first_date": "2025-10-01",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "JKIPL.NS": {
   "symbol": "JKIPL",
@@ -1508,9 +1508,9 @@
   "listing_symbol": "JKIPL",
   "issue_price": 121.0,
   "status": "ready",
-  "sessions": 273,
+  "sessions": 276,
   "first_date": "2025-10-03",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "TRUALT.NS": {
   "symbol": "TRUALT",
@@ -1525,9 +1525,9 @@
   "listing_symbol": "TRUALT",
   "issue_price": 496.0,
   "status": "ready",
-  "sessions": 273,
+  "sessions": 276,
   "first_date": "2025-10-03",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "PACEDIGITK.NS": {
   "symbol": "PACEDIGITK",
@@ -1542,9 +1542,9 @@
   "listing_symbol": "PACEDIGITK",
   "issue_price": 219.0,
   "status": "ready",
-  "sessions": 272,
+  "sessions": 275,
   "first_date": "2025-10-06",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "FABTECH.NS": {
   "symbol": "FABTECH",
@@ -1559,9 +1559,9 @@
   "listing_symbol": "FABTECH",
   "issue_price": 191.0,
   "status": "ready",
-  "sessions": 271,
+  "sessions": 274,
   "first_date": "2025-10-07",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "GLOTTIS.NS": {
   "symbol": "GLOTTIS",
@@ -1576,9 +1576,9 @@
   "listing_symbol": "GLOTTIS",
   "issue_price": 129.0,
   "status": "ready",
-  "sessions": 271,
+  "sessions": 274,
   "first_date": "2025-10-07",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ADVANCE.NS": {
   "symbol": "ADVANCE",
@@ -1593,9 +1593,9 @@
   "listing_symbol": "ADVANCE",
   "issue_price": 100.0,
   "status": "ready",
-  "sessions": 270,
+  "sessions": 273,
   "first_date": "2025-10-08",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "OMFREIGHT.NS": {
   "symbol": "OMFREIGHT",
@@ -1610,9 +1610,9 @@
   "listing_symbol": "OMFREIGHT",
   "issue_price": 135.0,
   "status": "ready",
-  "sessions": 270,
+  "sessions": 273,
   "first_date": "2025-10-08",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "WEWORK.NS": {
   "symbol": "WEWORK",
@@ -1627,9 +1627,9 @@
   "listing_symbol": "WEWORK",
   "issue_price": 648.0,
   "status": "ready",
-  "sessions": 268,
+  "sessions": 271,
   "first_date": "2025-10-10",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "TATACAP.NS": {
   "symbol": "TATACAP",
@@ -1644,9 +1644,9 @@
   "listing_symbol": "TATACAP",
   "issue_price": 326.0,
   "status": "ready",
-  "sessions": 267,
+  "sessions": 270,
   "first_date": "2025-10-13",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "LGEINDIA.NS": {
   "symbol": "LGEINDIA",
@@ -1661,9 +1661,9 @@
   "listing_symbol": "LGEINDIA",
   "issue_price": 1140.0,
   "status": "ready",
-  "sessions": 266,
+  "sessions": 269,
   "first_date": "2025-10-14",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "CRAMC.NS": {
   "symbol": "CRAMC",
@@ -1678,9 +1678,9 @@
   "listing_symbol": "CRAMC",
   "issue_price": 266.0,
   "status": "ready",
-  "sessions": 264,
+  "sessions": 267,
   "first_date": "2025-10-16",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "RUBICON.NS": {
   "symbol": "RUBICON",
@@ -1695,9 +1695,9 @@
   "listing_symbol": "RUBICON",
   "issue_price": 485.0,
   "status": "ready",
-  "sessions": 264,
+  "sessions": 267,
   "first_date": "2025-10-16",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "CANHLIFE.NS": {
   "symbol": "CANHLIFE",
@@ -1712,9 +1712,9 @@
   "listing_symbol": "CANHLIFE",
   "issue_price": 106.0,
   "status": "ready",
-  "sessions": 263,
+  "sessions": 266,
   "first_date": "2025-10-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "MIDWESTLTD.NS": {
   "symbol": "MIDWESTLTD",
@@ -1729,9 +1729,9 @@
   "listing_symbol": "MIDWESTLTD",
   "issue_price": 1065.0,
   "status": "ready",
-  "sessions": 259,
+  "sessions": 262,
   "first_date": "2025-10-24",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ORKLAINDIA.NS": {
   "symbol": "ORKLAINDIA",
@@ -1746,9 +1746,9 @@
   "listing_symbol": "ORKLAINDIA",
   "issue_price": 730.0,
   "status": "ready",
-  "sessions": 251,
+  "sessions": 254,
   "first_date": "2025-11-06",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "STUDDS.NS": {
   "symbol": "STUDDS",
@@ -1763,9 +1763,9 @@
   "listing_symbol": "STUDDS",
   "issue_price": 585.0,
   "status": "ready",
-  "sessions": 250,
+  "sessions": 253,
   "first_date": "2025-11-07",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "LENSKART.NS": {
   "symbol": "LENSKART",
@@ -1780,9 +1780,9 @@
   "listing_symbol": "LENSKART",
   "issue_price": 402.0,
   "status": "ready",
-  "sessions": 249,
+  "sessions": 252,
   "first_date": "2025-11-10",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "GROWW.NS": {
   "symbol": "GROWW",
@@ -1797,9 +1797,9 @@
   "listing_symbol": "GROWW",
   "issue_price": 100.0,
   "status": "ready",
-  "sessions": 247,
+  "sessions": 250,
   "first_date": "2025-11-12",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "PINELABS.NS": {
   "symbol": "PINELABS",
@@ -1814,9 +1814,9 @@
   "listing_symbol": "PINELABS",
   "issue_price": 221.0,
   "status": "ready",
-  "sessions": 245,
+  "sessions": 248,
   "first_date": "2025-11-14",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "PWL.NS": {
   "symbol": "PWL",
@@ -1831,9 +1831,9 @@
   "listing_symbol": "PWL",
   "issue_price": 109.0,
   "status": "ready",
-  "sessions": 243,
+  "sessions": 246,
   "first_date": "2025-11-18",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "EMMVEE.NS": {
   "symbol": "EMMVEE",
@@ -1848,9 +1848,9 @@
   "listing_symbol": "EMMVEE",
   "issue_price": 217.0,
   "status": "ready",
-  "sessions": 243,
+  "sessions": 246,
   "first_date": "2025-11-18",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "TENNIND.NS": {
   "symbol": "TENNIND",
@@ -1865,9 +1865,9 @@
   "listing_symbol": "TENNIND",
   "issue_price": 397.0,
   "status": "ready",
-  "sessions": 242,
+  "sessions": 245,
   "first_date": "2025-11-19",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "UTLSOLAR.NS": {
   "symbol": "UTLSOLAR",
@@ -1882,9 +1882,9 @@
   "listing_symbol": "UTLSOLAR",
   "issue_price": 228.0,
   "status": "ready",
-  "sessions": 241,
+  "sessions": 244,
   "first_date": "2025-11-20",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "CAPILLARY.NS": {
   "symbol": "CAPILLARY",
@@ -1899,9 +1899,9 @@
   "listing_symbol": "CAPILLARY",
   "issue_price": 577.0,
   "status": "ready",
-  "sessions": 240,
+  "sessions": 243,
   "first_date": "2025-11-21",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "EXCELSOFT.NS": {
   "symbol": "EXCELSOFT",
@@ -1916,9 +1916,9 @@
   "listing_symbol": "EXCELSOFT",
   "issue_price": 120.0,
   "status": "ready",
-  "sessions": 237,
+  "sessions": 240,
   "first_date": "2025-11-26",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SUDEEPPHRM.NS": {
   "symbol": "SUDEEPPHRM",
@@ -1933,9 +1933,9 @@
   "listing_symbol": "SUDEEPPHRM",
   "issue_price": 593.0,
   "status": "ready",
-  "sessions": 235,
+  "sessions": 238,
   "first_date": "2025-11-28",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "MEESHO.NS": {
   "symbol": "MEESHO",
@@ -1950,9 +1950,9 @@
   "listing_symbol": "MEESHO",
   "issue_price": 111.0,
   "status": "ready",
-  "sessions": 227,
+  "sessions": 230,
   "first_date": "2025-12-10",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "AEQUS.NS": {
   "symbol": "AEQUS",
@@ -1967,9 +1967,9 @@
   "listing_symbol": "AEQUS",
   "issue_price": 124.0,
   "status": "ready",
-  "sessions": 227,
+  "sessions": 230,
   "first_date": "2025-12-10",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "VIDYAWIRES.NS": {
   "symbol": "VIDYAWIRES",
@@ -1984,9 +1984,9 @@
   "listing_symbol": "VIDYAWIRES",
   "issue_price": 52.0,
   "status": "ready",
-  "sessions": 227,
+  "sessions": 230,
   "first_date": "2025-12-10",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "WAKEFIT.NS": {
   "symbol": "WAKEFIT",
@@ -2001,9 +2001,9 @@
   "listing_symbol": "WAKEFIT",
   "issue_price": 195.0,
   "status": "ready",
-  "sessions": 224,
+  "sessions": 227,
   "first_date": "2025-12-15",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "CORONA.NS": {
   "symbol": "CORONA",
@@ -2018,9 +2018,9 @@
   "listing_symbol": "CORONA",
   "issue_price": 1062.0,
   "status": "ready",
-  "sessions": 224,
+  "sessions": 227,
   "first_date": "2025-12-15",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "NEPHROPLUS.NS": {
   "symbol": "NEPHROPLUS",
@@ -2035,9 +2035,9 @@
   "listing_symbol": "NEPHROPLUS",
   "issue_price": 460.0,
   "status": "ready",
-  "sessions": 222,
+  "sessions": 225,
   "first_date": "2025-12-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "PARKHOSPS.NS": {
   "symbol": "PARKHOSPS",
@@ -2052,9 +2052,9 @@
   "listing_symbol": "PARKHOSPS",
   "issue_price": 162.0,
   "status": "ready",
-  "sessions": 222,
+  "sessions": 225,
   "first_date": "2025-12-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ICICIAMC.NS": {
   "symbol": "ICICIAMC",
@@ -2069,9 +2069,9 @@
   "listing_symbol": "ICICIAMC",
   "issue_price": 2165.0,
   "status": "ready",
-  "sessions": 220,
+  "sessions": 223,
   "first_date": "2025-12-19",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "KSHINTL.NS": {
   "symbol": "KSHINTL",
@@ -2086,9 +2086,9 @@
   "listing_symbol": "KSHINTL",
   "issue_price": 384.0,
   "status": "ready",
-  "sessions": 218,
+  "sessions": 221,
   "first_date": "2025-12-23",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "GKSL.NS": {
   "symbol": "GKSL",
@@ -2103,9 +2103,9 @@
   "listing_symbol": "GKSL",
   "issue_price": 114.0,
   "status": "ready",
-  "sessions": 214,
+  "sessions": 217,
   "first_date": "2025-12-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "BHARATCOAL.NS": {
   "symbol": "BHARATCOAL",
@@ -2120,9 +2120,9 @@
   "listing_symbol": "BHARATCOAL",
   "issue_price": 23.0,
   "status": "ready",
-  "sessions": 201,
+  "sessions": 204,
   "first_date": "2026-01-19",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "AMAGI.NS": {
   "symbol": "AMAGI",
@@ -2137,9 +2137,9 @@
   "listing_symbol": "AMAGI",
   "issue_price": 361.0,
   "status": "ready",
-  "sessions": 199,
+  "sessions": 202,
   "first_date": "2026-01-21",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SHADOWFAX.NS": {
   "symbol": "SHADOWFAX",
@@ -2154,9 +2154,9 @@
   "listing_symbol": "SHADOWFAX",
   "issue_price": 124.0,
   "status": "ready",
-  "sessions": 195,
+  "sessions": 198,
   "first_date": "2026-01-28",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "FRACTAL.NS": {
   "symbol": "FRACTAL",
@@ -2171,9 +2171,9 @@
   "listing_symbol": "FRACTAL",
   "issue_price": 900.0,
   "status": "ready",
-  "sessions": 181,
+  "sessions": 184,
   "first_date": "2026-02-16",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "AYE.NS": {
   "symbol": "AYE",
@@ -2188,9 +2188,9 @@
   "listing_symbol": "AYE",
   "issue_price": 129.0,
   "status": "ready",
-  "sessions": 181,
+  "sessions": 184,
   "first_date": "2026-02-16",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "GAUDIUMIVF.NS": {
   "symbol": "GAUDIUMIVF",
@@ -2205,9 +2205,9 @@
   "listing_symbol": "GAUDIUMIVF",
   "issue_price": 79.0,
   "status": "ready",
-  "sessions": 172,
+  "sessions": 175,
   "first_date": "2026-02-27",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "CLEANMAX.NS": {
   "symbol": "CLEANMAX",
@@ -2222,9 +2222,9 @@
   "listing_symbol": "CLEANMAX",
   "issue_price": 1053.0,
   "status": "ready",
-  "sessions": 171,
+  "sessions": 174,
   "first_date": "2026-03-02",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SRTL.NS": {
   "symbol": "SRTL",
@@ -2239,9 +2239,9 @@
   "listing_symbol": "SRTL",
   "issue_price": 104.0,
   "status": "ready",
-  "sessions": 171,
+  "sessions": 174,
   "first_date": "2026-03-02",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "PNGSREVA.NS": {
   "symbol": "PNGSREVA",
@@ -2256,9 +2256,9 @@
   "listing_symbol": "PNGSREVA",
   "issue_price": 386.0,
   "status": "ready",
-  "sessions": 170,
+  "sessions": 173,
   "first_date": "2026-03-04",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "OMNI.NS": {
   "symbol": "OMNI",
@@ -2273,9 +2273,9 @@
   "listing_symbol": "OMNI",
   "issue_price": 227.0,
   "status": "ready",
-  "sessions": 169,
+  "sessions": 172,
   "first_date": "2026-03-05",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SEDEMAC.NS": {
   "symbol": "SEDEMAC",
@@ -2290,9 +2290,9 @@
   "listing_symbol": "SEDEMAC",
   "issue_price": 1352.0,
   "status": "ready",
-  "sessions": 165,
+  "sessions": 168,
   "first_date": "2026-03-11",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "RSL.NS": {
   "symbol": "RSL",
@@ -2307,9 +2307,9 @@
   "listing_symbol": "RSL",
   "issue_price": 122.0,
   "status": "ready",
-  "sessions": 159,
+  "sessions": 162,
   "first_date": "2026-03-19",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "INNOVISION.NS": {
   "symbol": "INNOVISION",
@@ -2324,9 +2324,9 @@
   "listing_symbol": "INNOVISION",
   "issue_price": 519.0,
   "status": "ready",
-  "sessions": 157,
+  "sessions": 160,
   "first_date": "2026-03-23",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "GSPCROP.NS": {
   "symbol": "GSPCROP",
@@ -2341,9 +2341,9 @@
   "listing_symbol": "GSPCROP",
   "issue_price": 320.0,
   "status": "ready",
-  "sessions": 156,
+  "sessions": 159,
   "first_date": "2026-03-24",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "CMPDI.NS": {
   "symbol": "CMPDI",
@@ -2358,9 +2358,9 @@
   "listing_symbol": "CMPDI",
   "issue_price": 172.0,
   "status": "ready",
-  "sessions": 153,
+  "sessions": 156,
   "first_date": "2026-03-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SAIPARENT.NS": {
   "symbol": "SAIPARENT",
@@ -2375,9 +2375,9 @@
   "listing_symbol": "SAIPARENT",
   "issue_price": 392.0,
   "status": "ready",
-  "sessions": 151,
+  "sessions": 154,
   "first_date": "2026-04-02",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "POWERICA.NS": {
   "symbol": "POWERICA",
@@ -2392,9 +2392,9 @@
   "listing_symbol": "POWERICA",
   "issue_price": 395.0,
   "status": "ready",
-  "sessions": 151,
+  "sessions": 154,
   "first_date": "2026-04-02",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "AEROPLANE.NS": {
   "symbol": "AEROPLANE",
@@ -2409,9 +2409,9 @@
   "listing_symbol": "AMIRCHAND",
   "issue_price": 212.0,
   "status": "ready",
-  "sessions": 151,
+  "sessions": 154,
   "first_date": "2026-04-02",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "OMPOWER.NS": {
   "symbol": "OMPOWER",
@@ -2426,9 +2426,9 @@
   "listing_symbol": "OMPOWER",
   "issue_price": 175.0,
   "status": "ready",
-  "sessions": 142,
+  "sessions": 145,
   "first_date": "2026-04-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "KISSHT.NS": {
   "symbol": "KISSHT",
@@ -2443,9 +2443,9 @@
   "listing_symbol": "KISSHT",
   "issue_price": 171.0,
   "status": "ready",
-  "sessions": 128,
+  "sessions": 131,
   "first_date": "2026-05-08",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "CMRGREEN.NS": {
   "symbol": "CMRGREEN",
@@ -2460,9 +2460,9 @@
   "listing_symbol": "CMRGREEN",
   "issue_price": 192.0,
   "status": "ready",
-  "sessions": 106,
+  "sessions": 109,
   "first_date": "2026-06-10",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "HEXAGON.NS": {
   "symbol": "HEXAGON",
@@ -2477,9 +2477,9 @@
   "listing_symbol": "HEXAGON",
   "issue_price": 45.0,
   "status": "ready",
-  "sessions": 104,
+  "sessions": 107,
   "first_date": "2026-06-12",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "TURTLEMINT.NS": {
   "symbol": "TURTLEMINT",
@@ -2494,9 +2494,9 @@
   "listing_symbol": "TURTLEMINT",
   "issue_price": 152.0,
   "status": "ready",
-  "sessions": 94,
+  "sessions": 97,
   "first_date": "2026-06-29",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "RAMBHAJO.NS": {
   "symbol": "RAMBHAJO",
@@ -2511,9 +2511,9 @@
   "listing_symbol": "RAMBHAJO",
   "issue_price": 138.0,
   "status": "ready",
-  "sessions": 92,
+  "sessions": 95,
   "first_date": "2026-07-01",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "CORDELIA.NS": {
   "symbol": "CORDELIA",
@@ -2528,9 +2528,9 @@
   "listing_symbol": "CORDELIA",
   "issue_price": 808.0,
   "status": "ready",
-  "sessions": 92,
+  "sessions": 95,
   "first_date": "2026-07-01",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "CSM.NS": {
   "symbol": "CSM",
@@ -2545,9 +2545,9 @@
   "listing_symbol": "CSM",
   "issue_price": 113.0,
   "status": "ready",
-  "sessions": 91,
+  "sessions": 94,
   "first_date": "2026-07-02",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "AASTHA.NS": {
   "symbol": "AASTHA",
@@ -2562,9 +2562,9 @@
   "listing_symbol": "AASTHA",
   "issue_price": 136.0,
   "status": "ready",
-  "sessions": 89,
+  "sessions": 92,
   "first_date": "2026-07-06",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "KNACK.NS": {
   "symbol": "KNACK",
@@ -2579,9 +2579,9 @@
   "listing_symbol": "KNACK",
   "issue_price": 170.0,
   "status": "ready",
-  "sessions": 87,
+  "sessions": 90,
   "first_date": "2026-07-08",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "KUSUMGAR.NS": {
   "symbol": "KUSUMGAR",
@@ -2596,9 +2596,9 @@
   "listing_symbol": "KUSUMGAR",
   "issue_price": 419.0,
   "status": "ready",
-  "sessions": 82,
+  "sessions": 85,
   "first_date": "2026-07-15",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "LASERPOWER.NS": {
   "symbol": "LASERPOWER",
@@ -2613,9 +2613,9 @@
   "listing_symbol": "LASERPOWER",
   "issue_price": 214.0,
   "status": "ready",
-  "sessions": 81,
+  "sessions": 84,
   "first_date": "2026-07-16",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ALPINETEX.NS": {
   "symbol": "ALPINETEX",
@@ -2630,9 +2630,9 @@
   "listing_symbol": "ALPINETEX",
   "issue_price": 105.0,
   "status": "ready",
-  "sessions": 78,
+  "sessions": 81,
   "first_date": "2026-07-21",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SBIFUNDS.NS": {
   "symbol": "SBIFUNDS",
@@ -2647,9 +2647,9 @@
   "listing_symbol": "SBIFUNDS",
   "issue_price": 574.0,
   "status": "ready",
-  "sessions": 78,
+  "sessions": 81,
   "first_date": "2026-07-21",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "CMLL.NS": {
   "symbol": "CMLL",
@@ -2664,9 +2664,9 @@
   "listing_symbol": "CMLL",
   "issue_price": 424.0,
   "status": "ready",
-  "sessions": 75,
+  "sessions": 78,
   "first_date": "2026-07-24",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "INDOMIM.NS": {
   "symbol": "INDOMIM",
@@ -2681,9 +2681,9 @@
   "listing_symbol": "INDOMIM",
   "issue_price": 485.0,
   "status": "ready",
-  "sessions": 71,
+  "sessions": 74,
   "first_date": "2026-07-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "XTRANET.NS": {
   "symbol": "XTRANET",
@@ -2698,9 +2698,9 @@
   "listing_symbol": "XTRANET",
   "issue_price": 127.0,
   "status": "ready",
-  "sessions": 71,
+  "sessions": 74,
   "first_date": "2026-07-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "LCL.NS": {
   "symbol": "LCL",
@@ -2715,9 +2715,9 @@
   "listing_symbol": "LCL",
   "issue_price": 425.0,
   "status": "ready",
-  "sessions": 71,
+  "sessions": 74,
   "first_date": "2026-07-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "MANIPALHOS.NS": {
   "symbol": "MANIPALHOS",
@@ -2732,9 +2732,9 @@
   "listing_symbol": "MANIPALHOS",
   "issue_price": 590.0,
   "status": "ready",
-  "sessions": 67,
+  "sessions": 70,
   "first_date": "2026-08-05",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "MVELECTRO.NS": {
   "symbol": "MVELECTRO",
@@ -2749,9 +2749,9 @@
   "listing_symbol": "MVELECTRO",
   "issue_price": 425.0,
   "status": "ready",
-  "sessions": 66,
+  "sessions": 69,
   "first_date": "2026-08-06",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "JNPR.NS": {
   "symbol": "JNPR",
@@ -2766,9 +2766,9 @@
   "listing_symbol": "JNPR",
   "issue_price": 225.0,
   "status": "ready",
-  "sessions": 66,
+  "sessions": 69,
   "first_date": "2026-08-06",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ARDEE.NS": {
   "symbol": "ARDEE",
@@ -2783,9 +2783,9 @@
   "listing_symbol": "ARDEE",
   "issue_price": 53.0,
   "status": "ready",
-  "sessions": 62,
+  "sessions": 65,
   "first_date": "2026-08-12",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "LEAPIND.NS": {
   "symbol": "LEAPIND",
@@ -2800,9 +2800,9 @@
   "listing_symbol": "LEAPIND",
   "issue_price": 159.0,
   "status": "ready",
-  "sessions": 60,
+  "sessions": 63,
   "first_date": "2026-08-14",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "TECHNOCRAF.NS": {
   "symbol": "TECHNOCRAF",
@@ -2817,9 +2817,9 @@
   "listing_symbol": "TECHNOCRAF",
   "issue_price": 212.0,
   "status": "ready",
-  "sessions": 60,
+  "sessions": 63,
   "first_date": "2026-08-14",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "MOLBIO.NS": {
   "symbol": "MOLBIO",
@@ -2833,10 +2833,10 @@
   "listing_date": "2026-08-17",
   "listing_symbol": "MOLBIO",
   "issue_price": 807.0,
-  "status": "waiting",
-  "sessions": 59,
+  "status": "ready",
+  "sessions": 62,
   "first_date": "2026-08-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "DHOOTTRANS.NS": {
   "symbol": "DHOOTTRANS",
@@ -2850,10 +2850,10 @@
   "listing_date": "2026-08-17",
   "listing_symbol": "DHOOTTRANS",
   "issue_price": 871.0,
-  "status": "waiting",
-  "sessions": 59,
+  "status": "ready",
+  "sessions": 62,
   "first_date": "2026-08-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "MILKYMIST.NS": {
   "symbol": "MILKYMIST",
@@ -2867,10 +2867,10 @@
   "listing_date": "2026-08-18",
   "listing_symbol": "MILKYMIST",
   "issue_price": 140.0,
-  "status": "waiting",
-  "sessions": 58,
+  "status": "ready",
+  "sessions": 61,
   "first_date": "2026-08-18",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SHIPROCKET.NS": {
   "symbol": "SHIPROCKET",
@@ -2884,10 +2884,10 @@
   "listing_date": "2026-08-19",
   "listing_symbol": "SHIPROCKET",
   "issue_price": 97.0,
-  "status": "waiting",
-  "sessions": 57,
+  "status": "ready",
+  "sessions": 60,
   "first_date": "2026-08-19",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "BLEL.NS": {
   "symbol": "BLEL",
@@ -2901,10 +2901,10 @@
   "listing_date": "2026-08-19",
   "listing_symbol": "BLEL",
   "issue_price": 285.0,
-  "status": "waiting",
-  "sessions": 57,
+  "status": "ready",
+  "sessions": 60,
   "first_date": "2026-08-19",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "HORIZONIND.NS": {
   "symbol": "HORIZONIND",
@@ -2919,9 +2919,9 @@
   "listing_symbol": "HORIZONIND",
   "issue_price": 60.0,
   "status": "waiting",
-  "sessions": 54,
+  "sessions": 57,
   "first_date": "2026-08-24",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "LALITHAA.NS": {
   "symbol": "LALITHAA",
@@ -2936,9 +2936,9 @@
   "listing_symbol": "LALITHAA",
   "issue_price": 201.0,
   "status": "waiting",
-  "sessions": 54,
+  "sessions": 57,
   "first_date": "2026-08-24",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SUNSHINE.NS": {
   "symbol": "SUNSHINE",
@@ -2953,9 +2953,9 @@
   "listing_symbol": "SUNSHINE",
   "issue_price": 360.0,
   "status": "waiting",
-  "sessions": 53,
+  "sessions": 56,
   "first_date": "2026-08-25",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SHANKESH.NS": {
   "symbol": "SHANKESH",
@@ -2970,9 +2970,9 @@
   "listing_symbol": "SHANKESH",
   "issue_price": 93.0,
   "status": "waiting",
-  "sessions": 53,
+  "sessions": 56,
   "first_date": "2026-08-25",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "GAJA.NS": {
   "symbol": "GAJA",
@@ -2987,9 +2987,9 @@
   "listing_symbol": "GAJA",
   "issue_price": 160.0,
   "status": "waiting",
-  "sessions": 52,
+  "sessions": 55,
   "first_date": "2026-08-26",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "TEMPSENS.NS": {
   "symbol": "TEMPSENS",
@@ -3004,9 +3004,9 @@
   "listing_symbol": "TEMPSENS",
   "issue_price": 300.0,
   "status": "waiting",
-  "sessions": 50,
+  "sessions": 53,
   "first_date": "2026-08-28",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "AUGMONT.NS": {
   "symbol": "AUGMONT",
@@ -3021,9 +3021,9 @@
   "listing_symbol": "AUGMONT",
   "issue_price": 788.0,
   "status": "waiting",
-  "sessions": 49,
+  "sessions": 52,
   "first_date": "2026-08-31",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "HTEL.NS": {
   "symbol": "HTEL",
@@ -3038,9 +3038,9 @@
   "listing_symbol": "HTEL",
   "issue_price": 53.0,
   "status": "waiting",
-  "sessions": 48,
+  "sessions": 51,
   "first_date": "2026-09-01",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SKYWAYS.NS": {
   "symbol": "SKYWAYS",
@@ -3055,9 +3055,9 @@
   "listing_symbol": "SKYWAYS",
   "issue_price": 138.0,
   "status": "waiting",
-  "sessions": 48,
+  "sessions": 51,
   "first_date": "2026-09-01",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SYMBIOTEC.NS": {
   "symbol": "SYMBIOTEC",
@@ -3072,9 +3072,9 @@
   "listing_symbol": "SYMBIOTEC",
   "issue_price": 988.0,
   "status": "waiting",
-  "sessions": 48,
+  "sessions": 51,
   "first_date": "2026-09-01",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ANNU.NS": {
   "symbol": "ANNU",
@@ -3089,9 +3089,9 @@
   "listing_symbol": "ANNU",
   "issue_price": 99.0,
   "status": "waiting",
-  "sessions": 47,
+  "sessions": 50,
   "first_date": "2026-09-02",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "LUMINO.NS": {
   "symbol": "LUMINO",
@@ -3106,9 +3106,9 @@
   "listing_symbol": "LUMINO",
   "issue_price": 82.0,
   "status": "waiting",
-  "sessions": 46,
+  "sessions": 49,
   "first_date": "2026-09-03",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ESDS.NS": {
   "symbol": "ESDS",
@@ -3123,9 +3123,9 @@
   "listing_symbol": "ESDS",
   "issue_price": 429.0,
   "status": "waiting",
-  "sessions": 45,
+  "sessions": 48,
   "first_date": "2026-09-04",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "PRIORITY.NS": {
   "symbol": "PRIORITY",
@@ -3140,9 +3140,9 @@
   "listing_symbol": "PRIORITY",
   "issue_price": 200.0,
   "status": "waiting",
-  "sessions": 45,
+  "sessions": 48,
   "first_date": "2026-09-04",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "PERNIASPOP.NS": {
   "symbol": "PERNIASPOP",
@@ -3157,9 +3157,9 @@
   "listing_symbol": "PERNIASPOP",
   "issue_price": 575.0,
   "status": "waiting",
-  "sessions": 44,
+  "sessions": 47,
   "first_date": "2026-09-07",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "MOMSBELIEF.NS": {
   "symbol": "MOMSBELIEF",
@@ -3174,9 +3174,9 @@
   "listing_symbol": "MOMSBELIEF",
   "issue_price": 239.0,
   "status": "waiting",
-  "sessions": 43,
+  "sessions": 46,
   "first_date": "2026-09-08",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "DEEPA.NS": {
   "symbol": "DEEPA",
@@ -3191,9 +3191,9 @@
   "listing_symbol": "DEEPA",
   "issue_price": 177.0,
   "status": "waiting",
-  "sessions": 43,
+  "sessions": 46,
   "first_date": "2026-09-08",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "PRANAV.NS": {
   "symbol": "PRANAV",
@@ -3208,9 +3208,9 @@
   "listing_symbol": "PRANAV",
   "issue_price": 124.0,
   "status": "waiting",
-  "sessions": 39,
+  "sessions": 42,
   "first_date": "2026-09-15",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "PRASOLCHEM.NS": {
   "symbol": "PRASOLCHEM",
@@ -3225,9 +3225,9 @@
   "listing_symbol": "PRASOLCHEM",
   "issue_price": 676.0,
   "status": "waiting",
-  "sessions": 38,
+  "sessions": 41,
   "first_date": "2026-09-16",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "KANOHAR.NS": {
   "symbol": "KANOHAR",
@@ -3242,9 +3242,9 @@
   "listing_symbol": "KANOHAR",
   "issue_price": 632.0,
   "status": "waiting",
-  "sessions": 38,
+  "sessions": 41,
   "first_date": "2026-09-16",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "GLASSWALL.NS": {
   "symbol": "GLASSWALL",
@@ -3259,9 +3259,9 @@
   "listing_symbol": "GLASSWALL",
   "issue_price": 182.0,
   "status": "waiting",
-  "sessions": 38,
+  "sessions": 41,
   "first_date": "2026-09-16",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "STEAMHOUSE.NS": {
   "symbol": "STEAMHOUSE",
@@ -3276,9 +3276,9 @@
   "listing_symbol": "STEAMHOUSE",
   "issue_price": 81.0,
   "status": "waiting",
-  "sessions": 37,
+  "sessions": 40,
   "first_date": "2026-09-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "MPIMANIPAL.NS": {
   "symbol": "MPIMANIPAL",
@@ -3293,9 +3293,9 @@
   "listing_symbol": "MPIMANIPAL",
   "issue_price": 339.0,
   "status": "waiting",
-  "sessions": 37,
+  "sessions": 40,
   "first_date": "2026-09-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ARCIL.NS": {
   "symbol": "ARCIL",
@@ -3310,9 +3310,9 @@
   "listing_symbol": "ARCIL",
   "issue_price": 139.0,
   "status": "waiting",
-  "sessions": 37,
+  "sessions": 40,
   "first_date": "2026-09-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "LCCPROJECT.NS": {
   "symbol": "LCCPROJECT",
@@ -3327,9 +3327,9 @@
   "listing_symbol": "LCCPROJECT",
   "issue_price": 146.0,
   "status": "waiting",
-  "sessions": 37,
+  "sessions": 40,
   "first_date": "2026-09-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "KARAMTARA.NS": {
   "symbol": "KARAMTARA",
@@ -3344,9 +3344,9 @@
   "listing_symbol": "KARAMTARA",
   "issue_price": 254.0,
   "status": "waiting",
-  "sessions": 37,
+  "sessions": 40,
   "first_date": "2026-09-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "RENTOMOJO.NS": {
   "symbol": "RENTOMOJO",
@@ -3361,9 +3361,9 @@
   "listing_symbol": "RENTOMOJO",
   "issue_price": 404.0,
   "status": "waiting",
-  "sessions": 37,
+  "sessions": 40,
   "first_date": "2026-09-17",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "VEEGALAND.NS": {
   "symbol": "VEEGALAND",
@@ -3378,9 +3378,9 @@
   "listing_symbol": "VEEGALAND",
   "issue_price": 140.0,
   "status": "waiting",
-  "sessions": 36,
+  "sessions": 39,
   "first_date": "2026-09-18",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "MANIKA.NS": {
   "symbol": "MANIKA",
@@ -3395,9 +3395,9 @@
   "listing_symbol": "MANIKA",
   "issue_price": 43.0,
   "status": "waiting",
-  "sessions": 35,
+  "sessions": 38,
   "first_date": "2026-09-21",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "HEROMOTORS.NS": {
   "symbol": "HEROMOTORS",
@@ -3412,9 +3412,9 @@
   "listing_symbol": "HEROMOTORS",
   "issue_price": 84.0,
   "status": "waiting",
-  "sessions": 33,
+  "sessions": 36,
   "first_date": "2026-09-23",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SSRETAIL.NS": {
   "symbol": "SSRETAIL",
@@ -3429,9 +3429,9 @@
   "listing_symbol": "SSRETAIL",
   "issue_price": 424.0,
   "status": "waiting",
-  "sessions": 33,
+  "sessions": 36,
   "first_date": "2026-09-23",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "JSIPL.NS": {
   "symbol": "JSIPL",
@@ -3446,9 +3446,9 @@
   "listing_symbol": "JSIPL",
   "issue_price": 93.0,
   "status": "waiting",
-  "sessions": 33,
+  "sessions": 36,
   "first_date": "2026-09-23",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SONA.NS": {
   "symbol": "SONA",
@@ -3463,9 +3463,9 @@
   "listing_symbol": "SONA",
   "issue_price": 99.0,
   "status": "waiting",
-  "sessions": 32,
+  "sessions": 35,
   "first_date": "2026-09-24",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "VARMORA.NS": {
   "symbol": "VARMORA",
@@ -3480,9 +3480,9 @@
   "listing_symbol": "VARMORA",
   "issue_price": 148.0,
   "status": "waiting",
-  "sessions": 29,
+  "sessions": 32,
   "first_date": "2026-09-29",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ADROITIND.NS": {
   "symbol": "ADROITIND",
@@ -3497,9 +3497,9 @@
   "listing_symbol": "ADROITIND",
   "issue_price": 134.0,
   "status": "waiting",
-  "sessions": 28,
+  "sessions": 31,
   "first_date": "2026-09-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ELEVATE.NS": {
   "symbol": "ELEVATE",
@@ -3514,9 +3514,9 @@
   "listing_symbol": "ELEVATE",
   "issue_price": 362.0,
   "status": "waiting",
-  "sessions": 28,
+  "sessions": 31,
   "first_date": "2026-09-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SWASTIKAIN.NS": {
   "symbol": "SWASTIKAIN",
@@ -3531,9 +3531,9 @@
   "listing_symbol": "SWASTIKAIN",
   "issue_price": 185.0,
   "status": "waiting",
-  "sessions": 28,
+  "sessions": 31,
   "first_date": "2026-09-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ARMEE.NS": {
   "symbol": "ARMEE",
@@ -3548,9 +3548,9 @@
   "listing_symbol": "ARMEE",
   "issue_price": 375.0,
   "status": "waiting",
-  "sessions": 28,
+  "sessions": 31,
   "first_date": "2026-09-30",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "MONEYVIEW.NS": {
   "symbol": "MONEYVIEW",
@@ -3565,9 +3565,9 @@
   "listing_symbol": "MONEYVIEW",
   "issue_price": 34.0,
   "status": "waiting",
-  "sessions": 27,
+  "sessions": 30,
   "first_date": "2026-10-01",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "AONESTEELS.NS": {
   "symbol": "AONESTEELS",
@@ -3582,9 +3582,9 @@
   "listing_symbol": "AONESTEELS",
   "issue_price": 405.0,
   "status": "waiting",
-  "sessions": 27,
+  "sessions": 30,
   "first_date": "2026-10-01",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "RUNWALENTR.NS": {
   "symbol": "RUNWALENTR",
@@ -3599,9 +3599,9 @@
   "listing_symbol": "RUNWALENTR",
   "issue_price": 305.0,
   "status": "waiting",
-  "sessions": 26,
+  "sessions": 29,
   "first_date": "2026-10-05",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "GERMAN.NS": {
   "symbol": "GERMAN",
@@ -3616,9 +3616,9 @@
   "listing_symbol": "GERMAN",
   "issue_price": 139.0,
   "status": "waiting",
-  "sessions": 26,
+  "sessions": 29,
   "first_date": "2026-10-05",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ACEVECTOR.NS": {
   "symbol": "ACEVECTOR",
@@ -3633,9 +3633,9 @@
   "listing_symbol": "ACEVECTOR",
   "issue_price": 32.0,
   "status": "waiting",
-  "sessions": 26,
+  "sessions": 29,
   "first_date": "2026-10-05",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ORIENTCABL.NS": {
   "symbol": "ORIENTCABL",
@@ -3650,9 +3650,9 @@
   "listing_symbol": "ORIENTCABL",
   "issue_price": 272.0,
   "status": "waiting",
-  "sessions": 26,
+  "sessions": 29,
   "first_date": "2026-10-05",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SRIT.NS": {
   "symbol": "SRIT",
@@ -3667,9 +3667,9 @@
   "listing_symbol": "SRIT",
   "issue_price": 130.0,
   "status": "waiting",
-  "sessions": 25,
+  "sessions": 28,
   "first_date": "2026-10-06",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SHAHINVEST.NS": {
   "symbol": "SHAHINVEST",
@@ -3684,9 +3684,9 @@
   "listing_symbol": "SHAHINVEST",
   "issue_price": 167.0,
   "status": "waiting",
-  "sessions": 25,
+  "sessions": 28,
   "first_date": "2026-10-06",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "NITYAS.NS": {
   "symbol": "NITYAS",
@@ -3701,9 +3701,9 @@
   "listing_symbol": "NITYAS",
   "issue_price": 75.0,
   "status": "waiting",
-  "sessions": 23,
+  "sessions": 26,
   "first_date": "2026-10-08",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "VNL.NS": {
   "symbol": "VNL",
@@ -3718,9 +3718,9 @@
   "listing_symbol": "VNL",
   "issue_price": 220.0,
   "status": "waiting",
-  "sessions": 23,
+  "sessions": 26,
   "first_date": "2026-10-08",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "HDFIRE.NS": {
   "symbol": "HDFIRE",
@@ -3735,9 +3735,9 @@
   "listing_symbol": "HDFIRE",
   "issue_price": 271.0,
   "status": "waiting",
-  "sessions": 15,
+  "sessions": 18,
   "first_date": "2026-10-21",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "FUSIONCX.NS": {
   "symbol": "FUSIONCX",
@@ -3752,9 +3752,9 @@
   "listing_symbol": "FUSIONCX",
   "issue_price": 289.0,
   "status": "waiting",
-  "sessions": 14,
+  "sessions": 17,
   "first_date": "2026-10-22",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "TONBO.NS": {
   "symbol": "TONBO",
@@ -3769,9 +3769,9 @@
   "listing_symbol": "TONBO",
   "issue_price": 700.0,
   "status": "waiting",
-  "sessions": 13,
+  "sessions": 16,
   "first_date": "2026-10-23",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "ZETWERK.NS": {
   "symbol": "ZETWERK",
@@ -3786,9 +3786,9 @@
   "listing_symbol": "ZETWERK",
   "issue_price": 151.0,
   "status": "waiting",
-  "sessions": 13,
+  "sessions": 16,
   "first_date": "2026-10-23",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "BONFIG.NS": {
   "symbol": "BONFIG",
@@ -3803,9 +3803,9 @@
   "listing_symbol": "BONFIG",
   "issue_price": 586.0,
   "status": "waiting",
-  "sessions": 13,
+  "sessions": 16,
   "first_date": "2026-10-23",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "SMT.NS": {
   "symbol": "SMT",
@@ -3820,9 +3820,9 @@
   "listing_symbol": "SMT",
   "issue_price": 344.0,
   "status": "waiting",
-  "sessions": 13,
+  "sessions": 16,
   "first_date": "2026-10-23",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "JPL.NS": {
   "symbol": "JPL",
@@ -3837,9 +3837,9 @@
   "listing_symbol": "JPL",
   "issue_price": 1119.0,
   "status": "waiting",
-  "sessions": 10,
+  "sessions": 13,
   "first_date": "2026-10-28",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "PARASHLTH.NS": {
   "symbol": "PARASHLTH",
@@ -3854,9 +3854,9 @@
   "listing_symbol": "PARASHLTH",
   "issue_price": 693.0,
   "status": "waiting",
-  "sessions": 10,
+  "sessions": 13,
   "first_date": "2026-10-28",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  },
  "EDELALTS.NS": {
   "symbol": "EDELALTS",
@@ -3871,8 +3871,8 @@
   "listing_symbol": "EDELALTS",
   "issue_price": 1665.0,
   "status": "waiting",
-  "sessions": 7,
+  "sessions": 10,
   "first_date": "2026-11-02",
-  "last_date": "2026-11-09"
+  "last_date": "2026-11-13"
  }
 }
